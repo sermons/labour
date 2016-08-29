@@ -16,15 +16,15 @@
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
-## 1. Success and Security <span class="hl2">(v1)</span>
-## 2. Sleep <span class="hl2">(v2)</span>
-## 3. Sons / Daughters <span class="hl2">(v3-5)</span>
+## 1. **Success** and Security <span class="hl2">(v1)</span>
+## 2. **Sleep** <span class="hl2">(v2)</span>
+## 3. **Sons** / Daughters <span class="hl2">(v3-5)</span>
 
 ---
 Unless the Lord **builds** the house, <br/>
 the builders **labor** in vain.
 
-Unless the Lord **watches** over the city,
+Unless the Lord **watches** over the city, <br/>
 the guards **stand watch** in vain.
 
 ---
@@ -75,7 +75,7 @@ when they **contend** with their opponents in court.
 Unless the Lord **builds** the house, <br/>
 the builders **labor** in vain.
 
-Unless the Lord **watches** over the city,
+Unless the Lord **watches** over the city, <br/>
 the guards **stand watch** in vain.
 
 ---
