@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image: "http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
 # Labour of Grace
 ## Psalm 127
 
@@ -15,7 +15,7 @@
 + we receive them by God's **grace**
 
 ---
-<!-- .slide: data-background-image: "http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
 ## 1. Success and Security <span class="hl2">(v1)</span>
 ## 2. Sleep <span class="hl2">(v2)</span>
 ## 3. Sons / Daughters <span class="hl2">(v3-5)</span>
@@ -33,7 +33,7 @@ the guards **stand watch** in vain.
 # What is my source of **security**?
 
 ---
-<!-- .slide: data-background-image: "http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
 ## 1. Success and Security <span class="hl2">(v1)</span>
 ## 2. Sleep <span class="hl2">(v2)</span>
 ## 3. Sons / Daughters <span class="hl2">(v3-5)</span>
@@ -49,7 +49,7 @@ for he **grants sleep** to those he loves.
 # Q2
 
 ---
-<!-- .slide: data-background-image: "http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
 ## 1. Success and Security <span class="hl2">(v1)</span>
 ## 2. Sleep <span class="hl2">(v2)</span>
 ## 3. Sons / Daughters <span class="hl2">(v3-5)</span>
@@ -70,7 +70,7 @@ when they **contend** with their opponents in court.
 # Q3
 
 ---
-<!-- .slide: data-background-image: "http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
 ## Psalm 127:1 (NIV) (p.1/3)
 Unless the Lord **builds** the house, <br/>
 the builders **labor** in vain.
@@ -79,7 +79,7 @@ Unless the Lord **watches** over the city,
 the guards **stand watch** in vain.
 
 ---
-<!-- .slide: data-background-image: "http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
 ## Psalm 127:2 (NIV) (p.2/3)
 In vain you **rise early** <br/>
 and **stay up** late, <br/>
@@ -87,7 +87,7 @@ and **stay up** late, <br/>
 for he **grants sleep** to those he loves.
 
 ---
-<!-- .slide: data-background-image: "http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
 ## Psalm 127:3-5 (NIV) (p.3/3)
 Children are a **heritage** from the Lord, <br/>
 offspring a **reward** from him. <br/>
@@ -108,5 +108,5 @@ when they **contend** with their opponents in court.
 + we receive them by God's **grace**
 
 ---
-<!-- .slide: data-background-image: "http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" class="empty" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" class="empty" -->
 
