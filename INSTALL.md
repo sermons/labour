@@ -24,9 +24,8 @@ into a separate directory, and pushes that subdir to the gh-pages branch.
   + [CNAME](CNAME), [favicon](favicon.ico)
   + Remove the **multiplex ID** from [templates/_index.html](templates/_index.html)
     + Or replace it with your own (see below)
-* Slide **content** goes in [slides/slides.md](slides/slides.md)
-  + Remove or rename [sample.md](slides/sample.md)
-  + Add more MD/HTML files in [slides/list.json](slides/list.json)
+* Change `sample.md` to `slides.md` in [slides/list.json](slides/list.json)
+  + Put slide **content** in [slides/slides.md](slides/slides.md)
   + Unused content goes in [spare.md](slides/spare.md) or any other
   file that's not mentioned in `list.json`
 * Static **assets** (CSS, JS, images, etc) go in [`static`](static)
@@ -72,6 +71,7 @@ just for pushing to gh-pages.  This is what I do:
 + Add the bot as a **collaborator** on your repo:
   "*Settings*" &rarr; "*Collaborators &amp; teams*" &rarr; "*Collaborators*"
   + Give the bot **Write** access so it can push
+  + See also: [Add machine user to organization](https://developer.github.com/guides/managing-deploy-keys/#machine-users)
 + **Prevent** the bot from pushing to master:
   + "*Settings*" &rarr; "*Branches*" &rarr; "*Protected branches*" &rarr; "*master*"
   + Check "*Protect this branch*" and "*Restrict who can push to this branch*"
