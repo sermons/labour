@@ -36,7 +36,7 @@ The builders labor **in vain**
   + cf *hebel* (Eccl): breath, fleeting
 
 ---
-## 1 Chronicles 17:1 (NIV)
+## 1 Chr 17:1 (NIV) (p.1/3)
 After **David** was settled in his **palace**, <br/>
 he said to Nathan the prophet,
 
@@ -48,7 +48,7 @@ is under a **tent**.”
 + project, do sth great for God
 
 ---
-## 1 Chronicles 17:4,7 (NIV)
+## 1 Chr 17:4,7 (NIV) (p.2/3)
 This is what the **Lord** says:
 
 **You are not** the one <br/>
@@ -63,7 +63,7 @@ and appointed you **ruler** over my people Israel.
 + God is the one who has built us up
 
 ---
-## 1 Chronicles 17:10-11 (NIV)
+## 1 Chr 17:10-11 (NIV) (p.3/3)
 I declare to you that <br/>
 **the Lord** will build a house for you:
 
