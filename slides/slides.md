@@ -214,7 +214,7 @@ but a **foolish son** brings **grief** to his mother.
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
-## Psalm 127:1 <small>(NIV) (p.1/3)</small>
+## Psalm 127:1 <small>(NIV) (p.1/4)</small>
 Unless the Lord **builds** the house, <br/>
 the builders **labor** in vain.
 
@@ -223,7 +223,7 @@ the guards **stand watch** in vain.
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
-## Psalm 127:2 <small>(NIV) (p.2/3)</small>
+## Psalm 127:2 <small>(NIV) (p.2/4)</small>
 In vain you **rise early** <br/>
 and **stay up** late, <br/>
 **toiling** for food to eat --
@@ -232,14 +232,19 @@ for he **grants sleep** to those he loves.
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
-## Psalm 127:3-5 <small>(NIV) (p.3/3)</small>
+## Psalm 127:3-4 <small>(NIV) (p.3/4)</small>
 Children are a **heritage** from the Lord, <br/>
-offspring a **reward** from him. <br/>
+offspring a **reward** from him.
+
 Like **arrows** in the hands of a **warrior** <br/>
 are children born in one’s youth.
 
+---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+## Psalm 127:5 <small>(NIV) (p.4/4)</small>
 **Blessed** is the man <br/>
-whose quiver is full of them. <br/>
+whose quiver is full of them.
+
 They will not be put to **shame** <br/>
 when they **contend** <br/>
 with their opponents in court.
