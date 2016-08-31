@@ -105,9 +105,9 @@ and all these things will be given to you as well.
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
-## 1. Success and Security <span class="hl2">(v1)</span>
-## 2. Sleep <span class="hl2">(v2)</span>
-## 3. Sons / Daughters <span class="hl2">(v3-5)</span>
+## 1. *Success* and Security <span class="hl2">(v1)</span>
+## 2. **Sleep** <span class="hl2">(v2)</span>
+## 3. *Sons* / Daughters <span class="hl2">(v3-5)</span>
 
 ---
 In vain you **rise early** <br/>
@@ -159,9 +159,9 @@ their abundance permits them **no sleep**.
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
-## 1. Success and Security <span class="hl2">(v1)</span>
-## 2. Sleep <span class="hl2">(v2)</span>
-## 3. Sons / Daughters <span class="hl2">(v3-5)</span>
+## 1. *Success* and Security <span class="hl2">(v1)</span>
+## 2. *Sleep* <span class="hl2">(v2)</span>
+## 3. **Sons / Daughters** <span class="hl2">(v3-5)</span>
 
 ---
 Children are a **heritage** from the Lord, <br/>
