@@ -69,9 +69,6 @@ over My people Israel.
 I declare to you that <br/>
 **the Lord** will build a house for you:
 
-When your **days are over** <br/>
-and you go to be with your ancestors,
-
 I will raise up your **offspring** to succeed you, <br/>
 one of your own **sons**, <br/>
 and I will establish **his kingdom**.
