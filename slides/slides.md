@@ -16,9 +16,9 @@
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
-## 1. **Success** and Security <span class="hl2">(v1)</span>
-## 2. **Sleep** <span class="hl2">(v2)</span>
-## 3. **Sons** / Daughters <span class="hl2">(v3-5)</span>
+## **Success** and Security <span class="hl2">(v1)</span>
+## **Sleep** <span class="hl2">(v2)</span>
+## **Sons** / Daughters <span class="hl2">(v3-5)</span>
 
 ---
 Unless the Lord **builds** the house, <br/>
@@ -87,7 +87,7 @@ the guards **stand watch** in vain.
 >>>
 
 ---
-## Matthew 6:31-32 (NIV) (p.1/2)
+## Mat 6:31-32 (NIV) (p.1/2)
 So **do not worry**, saying,
 
 ‘What shall we **eat**?’ <br/>
@@ -99,7 +99,7 @@ and your heavenly Father <br/>
 **knows** that you need them.
 
 ---
-## Matthew 6:33 (NIV) (p.2/2)
+## Mat 6:33 (NIV) (p.2/2)
 But seek first **his kingdom** <br/>
 and **his righteousness**,
 
@@ -113,9 +113,9 @@ will be given to you as well.
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
-## 1. *Success* and Security <span class="hl2">(v1)</span>
-## 2. **Sleep** <span class="hl2">(v2)</span>
-## 3. *Sons* / Daughters <span class="hl2">(v3-5)</span>
+## *Success* and Security <span class="hl2">(v1)</span>
+## **Sleep** <span class="hl2">(v2)</span>
+## *Sons* / Daughters <span class="hl2">(v3-5)</span>
 
 ---
 In vain you **rise early** <br/>
@@ -173,9 +173,9 @@ their abundance permits them **no sleep**.
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
-## 1. *Success* and Security <span class="hl2">(v1)</span>
-## 2. *Sleep* <span class="hl2">(v2)</span>
-## 3. **Sons / Daughters** <span class="hl2">(v3-5)</span>
+## *Success* and Security <span class="hl2">(v1)</span>
+## *Sleep* <span class="hl2">(v2)</span>
+## **Sons / Daughters** <span class="hl2">(v3-5)</span>
 
 ---
 Children are a **heritage** from the Lord, <br/>
