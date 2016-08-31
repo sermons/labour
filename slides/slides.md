@@ -128,7 +128,7 @@ for he **grants sleep** to those he loves.
 ## Genesis 3:17-18 (NIV)
 **Cursed** is the ground because of you; <br/>
 through **painful toil** <br/>
-you will eat food from it <br/>
+you will eat **food** from it <br/>
 all the days of your life.
 
 It will produce  <br/>
