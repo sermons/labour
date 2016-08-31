@@ -16,9 +16,9 @@
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
-## **Success** and Security <span class="hl2">(v1)</span>
-## **Sleep** <span class="hl2">(v2)</span>
-## **Sons** / Daughters <span class="hl2">(v3-5)</span>
+## 1. **Success** and Security <small class="hl2">(v1)</small>
+## 2. **Sleep** <small class="hl2">(v2)</small>
+## 3. **Sons** / Daughters <small class="hl2">(v3-5)</small>
 
 ---
 Unless the Lord **builds** the house, <br/>
@@ -36,7 +36,7 @@ The builders labor **in vain**
   + cf *hebel* (Eccl): breath, fleeting
 
 ---
-## 1 Chr 17:1 (NIV) (p.1/3)
+## 1 Chr 17:1 <small>(NIV) (p.1/3)</small>
 After **David** was settled in his **palace**, <br/>
 he said to Nathan the prophet,
 
@@ -48,7 +48,7 @@ is under a **tent**.”
 + project, do sth great for God
 
 ---
-## 1 Chr 17:4,7 (NIV) (p.2/3)
+## 1 Chr 17:4,7 <small>(NIV) (p.2/3)</small>
 **You are not** the one <br/>
 to build Me a house to dwell in.
 
@@ -62,7 +62,7 @@ over My people Israel.
 + God is the one who has built us up
 
 ---
-## 1 Chr 17:10-11 (NIV) (p.3/3)
+## 1 Chr 17:10-11 <small>(NIV) (p.3/3)</small>
 I declare to you that <br/>
 **the Lord** will build a house for you:
 
@@ -87,7 +87,7 @@ the guards **stand watch** in vain.
 >>>
 
 ---
-## Mat 6:31-32 (NIV) (p.1/2)
+## Mat 6:31-32 <small>(NIV) (p.1/2)</small>
 So **do not worry**, saying,
 
 ‘What shall we **eat**?’ <br/>
@@ -99,7 +99,7 @@ and your heavenly Father <br/>
 **knows** that you need them.
 
 ---
-## Mat 6:33 (NIV) (p.2/2)
+## Mat 6:33 <small>(NIV) (p.2/2)</small>
 But seek first **his kingdom** <br/>
 and **his righteousness**,
 
@@ -113,9 +113,9 @@ will be given to you as well.
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
-## *Success* and Security <span class="hl2">(v1)</span>
-## **Sleep** <span class="hl2">(v2)</span>
-## *Sons* / Daughters <span class="hl2">(v3-5)</span>
+## 1. *Success* and Security <small class="hl2">(v1)</small>
+## 2. **Sleep** <small class="hl2">(v2)</small>
+## 3. *Sons* / Daughters <small class="hl2">(v3-5)</small>
 
 ---
 In vain you **rise early** <br/>
@@ -125,7 +125,7 @@ and **stay up** late, <br/>
 for he **grants sleep** to those he loves.
 
 ---
-## Genesis 3:17-18 (NIV)
+## Genesis 3:17-38 <small>(NIV)</small>
 **Cursed** is the ground because of you; <br/>
 through **painful toil** <br/>
 you will eat **food** from it <br/>
@@ -136,7 +136,7 @@ It will produce  <br/>
 and you will eat the plants of the field.
 
 ---
-## Ecclesiastes 6:2 (NIV)
+## Ecclesiastes 6:2 <small>(NIV)</small>
 God gives some people <br/>
 **wealth, possessions and honor**, <br/>
 so that they **lack nothing** <br/>
@@ -149,7 +149,7 @@ and **strangers** enjoy them instead.
 This is **meaningless**, a grievous evil.
 
 ---
-## Psalm 128:1-2 (NIV)
+## Psalm 128:1-2 <small>(NIV)</small>
 Blessed are all who **fear the Lord**, <br/>
 who walk in **obedience** to him.
 
@@ -160,7 +160,7 @@ You will eat the **fruit of your labor**; <br/>
 for he **grants sleep** to those he loves.
 
 ---
-## Ecclesiastes 5:12 (NIV)
+## Ecclesiastes 5:12 <small>(NIV)</small>
 The **sleep** of a **laborer** is sweet, <br/>
 whether they eat **little** or much,
 
@@ -173,9 +173,9 @@ their abundance permits them **no sleep**.
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
-## *Success* and Security <span class="hl2">(v1)</span>
-## *Sleep* <span class="hl2">(v2)</span>
-## **Sons / Daughters** <span class="hl2">(v3-5)</span>
+## 1. *Success* and Security <small class="hl2">(v1)</small>
+## 2. *Sleep* <small class="hl2">(v2)</small>
+## 3. **Sons / Daughters** <small class="hl2">(v3-5)</small>
 
 ---
 Children are a **heritage** from the Lord, <br/>
@@ -190,7 +190,7 @@ when they **contend** <br/>
 with their opponents in court.
 
 ---
-## Proverbs 10:1 (NIV)
+## Proverbs 10:1 <small>(NIV)</small>
 A **wise son** brings **joy** to his father, <br/>
 but a **foolish son** brings **grief** to his mother.
 
@@ -200,7 +200,7 @@ but a **foolish son** brings **grief** to his mother.
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
-## Psalm 127:1 (NIV) (p.1/3)
+## Psalm 127:1 <small>(NIV) (p.1/3)</small>
 Unless the Lord **builds** the house, <br/>
 the builders **labor** in vain.
 
@@ -209,7 +209,7 @@ the guards **stand watch** in vain.
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
-## Psalm 127:2 (NIV) (p.2/3)
+## Psalm 127:2 <small>(NIV) (p.2/3)</small>
 In vain you **rise early** <br/>
 and **stay up** late, <br/>
 **toiling** for food to eat --
@@ -218,7 +218,7 @@ for he **grants sleep** to those he loves.
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
-## Psalm 127:3-5 (NIV) (p.3/3)
+## Psalm 127:3-5 <small>(NIV) (p.3/3)</small>
 Children are a **heritage** from the Lord, <br/>
 offspring a **reward** from him. <br/>
 Like **arrows** in the hands of a **warrior** <br/>
