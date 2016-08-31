@@ -97,7 +97,7 @@ or ‘What shall we **drink**?’ <br/>
 or ‘What shall we **wear**?’
 
 For the **pagans** run after all these things, <br/>
-and your heavenly Father <br/>
+and your **heavenly Father** <br/>
 **knows** that you need them.
 
 ---
