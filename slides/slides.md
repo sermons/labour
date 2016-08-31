@@ -49,14 +49,13 @@ is under a **tent**.”
 
 ---
 ## 1 Chr 17:4,7 (NIV) (p.2/3)
-This is what the **Lord** says:
-
 **You are not** the one <br/>
-to build me a house to dwell in.
+to build Me a house to dwell in.
 
 [...] **I took you** from the pasture, <br/>
 from tending the **flock**, <br/>
-and appointed you **ruler** over my people Israel.
+and appointed you **ruler** <br/>
+over My people Israel.
 
 >>>
 + God does not need my projects
@@ -88,15 +87,24 @@ the guards **stand watch** in vain.
 >>>
 
 ---
-## Matthew 6:31-34 (NIV)
-So **do not worry**, saying, ‘What shall we **eat**?’ <br/>
-or ‘What shall we **drink**?’ or ‘What shall we **wear**?’
+## Matthew 6:31-32 (NIV) (p.1/2)
+So **do not worry**, saying,
+
+‘What shall we **eat**?’ <br/>
+or ‘What shall we **drink**?’ <br/>
+or ‘What shall we **wear**?’
 
 For the **pagans** run after all these things, <br/>
-and your heavenly Father **knows** that you need them.
+and your heavenly Father <br/>
+**knows** that you need them.
 
-But seek first **his kingdom** and **his righteousness**, <br/>
-and all these things will be given to you as well.
+---
+## Matthew 6:33 (NIV) (p.2/2)
+But seek first **his kingdom** <br/>
+and **his righteousness**,
+
+and all these things <br/>
+will be given to you as well.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
@@ -112,24 +120,30 @@ and all these things will be given to you as well.
 ---
 In vain you **rise early** <br/>
 and **stay up** late, <br/>
-**toiling** for food to eat -- <br/>
+**toiling** for food to eat --
+
 for he **grants sleep** to those he loves.
 
 ---
 ## Genesis 3:17-18 (NIV)
 **Cursed** is the ground because of you; <br/>
-through **painful toil** you will eat food from it <br/>
+through **painful toil** <br/>
+you will eat food from it <br/>
 all the days of your life.
 
-It will produce **thorns and thistles** for you, <br/>
+It will produce  <br/>
+**thorns and thistles** for you, <br/>
 and you will eat the plants of the field.
 
 ---
 ## Ecclesiastes 6:2 (NIV)
-God gives some people **wealth, possessions and honor**, <br/>
-so that they **lack nothing** their hearts desire,
+God gives some people <br/>
+**wealth, possessions and honor**, <br/>
+so that they **lack nothing** <br/>
+their hearts desire,
 
-but God does not grant them the **ability to enjoy** them, <br/>
+but God does not grant them <br/>
+the **ability to enjoy** them, <br/>
 and **strangers** enjoy them instead.
 
 This is **meaningless**, a grievous evil.
@@ -172,7 +186,8 @@ are children born in one’s youth.
 **Blessed** is the man <br/>
 whose quiver is full of them. <br/>
 They will not be put to **shame** <br/>
-when they **contend** with their opponents in court.
+when they **contend** <br/>
+with their opponents in court.
 
 ---
 ## Proverbs 10:1 (NIV)
@@ -197,7 +212,8 @@ the guards **stand watch** in vain.
 ## Psalm 127:2 (NIV) (p.2/3)
 In vain you **rise early** <br/>
 and **stay up** late, <br/>
-**toiling** for food to eat -- <br/>
+**toiling** for food to eat --
+
 for he **grants sleep** to those he loves.
 
 ---
@@ -211,7 +227,8 @@ are children born in one’s youth.
 **Blessed** is the man <br/>
 whose quiver is full of them. <br/>
 They will not be put to **shame** <br/>
-when they **contend** with their opponents in court.
+when they **contend** <br/>
+with their opponents in court.
 
 >>>
 1. Success and Security
