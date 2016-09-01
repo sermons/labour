@@ -21,6 +21,7 @@
 ## 3. **Sons** / Daughters <small class="hl2">(v3-5)</small>
 
 ---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
 Unless the Lord **builds** the house, <br/>
 the builders **labor** in vain.
 
@@ -28,7 +29,7 @@ Unless the Lord **watches** over the city, <br/>
 the guards **stand watch** in vain.
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-K3uOmmlQmOo-pencil_shavings.jpg" -->
 The builders labor **in vain**
 
 >>>
@@ -36,7 +37,7 @@ The builders labor **in vain**
   + cf *hebel* (Eccl): breath, fleeting
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-DtHTWqkgBZc-forest_house.jpg" -->
 ## 1 Chr 17:1 <small>(NIV) (p.1/3)</small>
 After **David** was settled in his **palace**, <br/>
 he said to Nathan the prophet,
@@ -49,7 +50,7 @@ is under a **tent**.”
 + project, do sth great for God
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-DtHTWqkgBZc-forest_house.jpg" -->
 ## 1 Chr 17:4,7 <small>(NIV) (p.2/3)</small>
 **You are not** the one <br/>
 to build Me a house to dwell in.
@@ -64,7 +65,7 @@ over My people Israel.
 + God is the one who has built us up
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-DtHTWqkgBZc-forest_house.jpg" -->
 ## 1 Chr 17:10-11 <small>(NIV) (p.3/3)</small>
 I declare to you that <br/>
 **the Lord** will build a house for you:
@@ -86,9 +87,13 @@ Unless the Lord **watches** over the city, <br/>
 the guards **stand watch** in vain.
 
 >>>
++ security, fear
++ money, educ as safety net
+  + US: guns
++ old/ill: how survive?
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
 ## Mat 6:31-32 <small>(NIV) (p.1/2)</small>
 So **do not worry**, saying,
 
@@ -101,7 +106,7 @@ and your **heavenly Father** <br/>
 **knows** that you need them.
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
 ## Mat 6:33 <small>(NIV) (p.2/2)</small>
 But seek first **his kingdom** <br/>
 and **his righteousness**,
@@ -128,8 +133,14 @@ and **stay up** late, <br/>
 
 for he **grants sleep** to those he loves.
 
+>>>
++ **bread** of toil/suffering
++ **work** orig good:
+  + fruitful, **fulfilling**, fun
++ but **sin** resulted in **curse**:
+
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-8EFA86nI6yg-desert_cracks.jpg" -->
 ## Genesis 3:17-38 <small>(NIV)</small>
 **Cursed** is the ground because of you; <br/>
 through **painful toil** <br/>
@@ -140,8 +151,17 @@ It will produce  <br/>
 **thorns and thistles** for you, <br/>
 and you will eat the plants of the field.
 
+>>>
++ Specific to Adam/man
++ Not that toil is noble
+  + result of curse
++ what **good** is it to
+  + work hard, **save** up
+  + not **enjoy** it?
+  + kids **squander** it?
+
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-KtOid0FLjqU-spain_house.jpg" -->
 ## Ecclesiastes 6:2 <small>(NIV)</small>
 God gives some people <br/>
 **wealth, possessions and honor**, <br/>
@@ -154,8 +174,12 @@ and **strangers** enjoy them instead.
 
 This is **meaningless**, a grievous evil.
 
+>>>
++ "grievous evil": result of curse from sin
++ but work in the Lord is **blessed**:
+
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-qgHGDbbSNm8-share_tomatoes.jpg" -->
 ## Psalm 128:1-2 <small>(NIV)</small>
 Blessed are all who **fear the Lord**, <br/>
 who walk in **obedience** to him.
@@ -163,12 +187,17 @@ who walk in **obedience** to him.
 You will eat the **fruit of your labor**; <br/>
 **blessings and prosperity** will be yours.
 
+>>>
++ Work (our job): fear God + obey commands
+  + the whole of man
++ Rest in God's abundant grace + providence
+
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
 for he **grants sleep** to those he loves.
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-55_MpWjN1Lc-sleep.jpg" -->
 ## Ecclesiastes 5:12 <small>(NIV)</small>
 The **sleep** of a **laborer** is sweet, <br/>
 whether they eat **little** or much,
@@ -200,7 +229,7 @@ when they **contend** <br/>
 with their opponents in court.
 
 ---
-<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-1DkWWN1dr-s-father_son_beach.jpg" -->
 ## Proverbs 10:1 <small>(NIV)</small>
 A **wise son** brings **joy** to his father, <br/>
 but a **foolish son** brings **grief** to his mother.
@@ -208,6 +237,12 @@ but a **foolish son** brings **grief** to his mother.
 ---
 <!-- .slide: class="Q" data-background="white" -->
 # Q3
+
+>>>
++ Close by reading Psalm 127 once again:
+  + success + security
+  + sleep
+  + sons
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
