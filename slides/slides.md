@@ -207,7 +207,8 @@ their abundance permits them **no sleep**.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q2
+# Do I **toil** in my own strength,
+# or **rest** in God's grace? 
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
