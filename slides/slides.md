@@ -107,6 +107,9 @@ For the **pagans** run after all these things, <br/>
 and your **heavenly Father** <br/>
 **knows** that you need them.
 
+>>>
+Ps 37: do not fret, leads only to evil
+
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
 ## Mat 6:33 <small>(NIV) (p.2/2)</small>
@@ -120,6 +123,9 @@ will be given to you as well.
 <!-- .slide: class="Q" data-background="white" -->
 # What defines my **success**?
 # What is my source of **security**?
+
+>>>
++ success: act justly, love mercy, walk humbly with God
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
@@ -136,6 +142,8 @@ and **stay up** late, <br/>
 for he **grants sleep** to those he loves.
 
 >>>
++ rise for sake of being early
++ tarry/delay sit
 + **bread** of toil/suffering
 + **work** orig good:
   + fruitful, **fulfilling**, fun
@@ -215,6 +223,7 @@ their abundance permits them **no sleep**.
 >>>
 + Do I **toil** in my own strength,
   + or **rest** in God's grace?
++ sleep + Sabbath as act of **faith**
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
@@ -256,6 +265,7 @@ Like **arrows** in the hands of a **warrior**
 >>>
 + arrows: directed **intent**
 + **quiver** full:
+  + gift, not **pursuit**
   + every child a **blessing**
 
 ---
