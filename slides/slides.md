@@ -207,8 +207,12 @@ their abundance permits them **no sleep**.
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Do I **toil** in my own strength,
-# or **rest** in God's grace? 
+# Do I view **sleep** as God's **grace**
+# or a necessary **evil**?
+
+>>>
++ Do I **toil** in my own strength,
+  + or **rest** in God's grace? 
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
@@ -229,6 +233,12 @@ They will not be put to **shame** <br/>
 when they **contend** <br/>
 with their opponents in court.
 
+>>>
++ heritage: **possession**, not succession
+  + owned by God
+  + entrusted to our stewardship
++ arrows: directed intent
+
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-1DkWWN1dr-s-father_son_beach.jpg" -->
 ## Proverbs 10:1 <small>(NIV)</small>
@@ -243,7 +253,7 @@ but a **foolish son** brings **grief** to his mother.
 + Close by reading Psalm 127 once again:
   + success + security
   + sleep
-  + sons
+  + sons + daughters
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
