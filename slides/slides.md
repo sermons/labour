@@ -237,11 +237,24 @@ They will not be put to **shame** <br/>
 when they **contend** <br/>
 with their opponents in court.
 
+---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
+Children are a **heritage** from the Lord
+
 >>>
-+ heritage: **possession**, not succession
-  + owned by God
-  + entrusted to our stewardship
-+ arrows: directed intent
++ heritage: inheritance
+  + Heb: **possession**, not succession
++ owned by **God**
++ entrusted to our **stewardship**
+
+---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/pixabay-1557473-arrow.jpg" -->
+Like **arrows** in the hands of a **warrior**
+
+>>>
++ arrows: directed **intent**
++ **quiver** full:
+  + every child a **blessing**
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-1DkWWN1dr-s-father_son_beach.jpg" -->
@@ -249,11 +262,17 @@ with their opponents in court.
 A **wise son** brings **joy** to his father, <br/>
 but a **foolish son** brings **grief** to his mother.
 
+>>>
++ not put to **shame** in court
+
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q3
+# **Why** does God give us **children**?
 
 >>>
++ Why have kids?
+  + **single**: if/when have opportunity
+  + kids: our **choice**?
 + Close by reading Psalm 127 once again:
   + success + security
   + sleep
