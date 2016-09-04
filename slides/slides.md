@@ -7,7 +7,9 @@
 
 ---
 <!-- .slide: class="Q" data-background="white" -->
-# Q0
+## The most **valuable** things in life
+## are not **earned** by hard work
+## but given by God's **grace**
 
 >>>
 + The most **valuable** things in life
