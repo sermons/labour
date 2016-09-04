@@ -35,8 +35,12 @@ the guards **stand watch** in vain.
 The builders labor **in vain**
 
 >>>
++ projects / endeavours
+  + edu, career
+  + house: **family**, legacy
 + worthless, false, deceptive
   + cf *hebel* (Eccl): breath, fleeting
++ incl even proj **for God**: e.g. David
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-DtHTWqkgBZc-forest_house.jpg" -->
@@ -50,6 +54,7 @@ is under a **tent**.”
 
 >>>
 + project, do sth great for God
++ what was God's response? 
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-DtHTWqkgBZc-forest_house.jpg" -->
@@ -65,6 +70,7 @@ over My people Israel.
 >>>
 + God does not need my projects
 + God is the one who has built us up
++ like child "helping" in kitchen
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-DtHTWqkgBZc-forest_house.jpg" -->
@@ -79,6 +85,9 @@ and I will establish **his kingdom**.
 >>>
 + 12 He is the one who will build a house for me, and I will establish his throne forever.
 + not just Solomon, but Christ the Son of David
++ our responsibility:
+  + good + faithful **servant**
+  + not foreman / **director**! 
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
