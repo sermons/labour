@@ -212,7 +212,7 @@ their abundance permits them **no sleep**.
 
 >>>
 + Do I **toil** in my own strength,
-  + or **rest** in God's grace? 
+  + or **rest** in God's grace?
 
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
@@ -223,12 +223,16 @@ their abundance permits them **no sleep**.
 ---
 <!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
 Children are a **heritage** from the Lord, <br/>
-offspring a **reward** from him. <br/>
+offspring a **reward** from him.
+
 Like **arrows** in the hands of a **warrior** <br/>
 are children born in one’s youth.
 
+---
+<!-- .slide: data-background-image="http://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
 **Blessed** is the man <br/>
-whose quiver is full of them. <br/>
+whose quiver is full of them.
+
 They will not be put to **shame** <br/>
 when they **contend** <br/>
 with their opponents in court.
