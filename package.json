@@ -1,6 +1,6 @@
 {
-  "name": "@sermons/labour-of-grace",
-  "repository": "sermons/labour-of-grace",
+  "name": "@sermons/labour",
+  "repository": "sermons/labour",
   "description": "Ps127 Labour of Grace",
   "keywords": [
     "slides",
@@ -23,8 +23,20 @@
     },
     "history": [
       {
-        "venue": "Venue of talk",
-        "city": "Location",
+        "venue": "Church on Five",
+        "city": "Richmond",
+        "date": "2017-08-13",
+        "duration": 0
+      },
+      {
+        "venue": "Fujian Evangelical Church",
+        "city": "Richmond",
+        "date": "2000-01-01",
+        "duration": 0
+      },
+      {
+        "venue": "Pacific Grace Mandarin Church",
+        "city": "Burnaby",
         "date": "2000-01-01",
         "duration": 0
       }
