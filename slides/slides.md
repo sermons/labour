@@ -310,15 +310,18 @@ Like **arrows** in the hands of a **warrior**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-1DkWWN1dr-s-father_son_beach.jpg" -->
-## Proverbs 10:1 <small>(NIV)</small>
 A **wise son** brings **joy** to his father, <br/>
 but a **foolish son** brings **grief** to his mother.
+
+<div class="ref">
+Proverbs 10:1 (NIV)
+</div>
 
 >>>
 + not put to **shame** in court
 
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # **Why** does God give us **children**?
 
 >>>
@@ -332,40 +335,52 @@ but a **foolish son** brings **grief** to his mother.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
-## Psalm 127:1 <small>(NIV) (p.1/4)</small>
 Unless the Lord **builds** the house, <br/>
 the builders **labor** in vain.
 
 Unless the Lord **watches** over the city, <br/>
 the guards **stand watch** in vain.
 
+<div class="ref">
+Psalm 127:1 (NIV) (p.1/4)
+</div>
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
-## Psalm 127:2 <small>(NIV) (p.2/4)</small>
 In vain you **rise early** <br/>
 and **stay up** late, <br/>
 **toiling** for food to eat --
 
 for he **grants sleep** to those he loves.
 
+<div class="ref">
+Psalm 127:2 (NIV) (p.2/4)
+</div>
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
-## Psalm 127:3-4 <small>(NIV) (p.3/4)</small>
 Children are a **heritage** from the Lord, <br/>
 offspring a **reward** from him.
 
 Like **arrows** in the hands of a **warrior** <br/>
 are children born in one’s youth.
 
+<div class="ref">
+Psalm 127:3-4 (NIV) (p.3/4)
+</div>
+
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
-## Psalm 127:5 <small>(NIV) (p.4/4)</small>
 **Blessed** is the man <br/>
 whose quiver is full of them.
 
 They will not be put to **shame** <br/>
 when they **contend** <br/>
 with their opponents in court.
+
+<div class="ref">
+Psalm 127:5 (NIV) (p.4/4)
+</div>
 
 >>>
 1. Success and Security
