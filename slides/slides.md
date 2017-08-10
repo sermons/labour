@@ -2,25 +2,17 @@
 # Labour of Grace
 ## Psalm 127
 
->>>
-[labour.seanho.com](http://labour.seanho.com/)
-
 ---
 <!-- .slide: class="Q" data-background="white" -->
 ## The most **valuable** <br/> things in life
 ## are not **earned** by hard work
 ## but given by God's **grace**
 
->>>
-+ The most **valuable** things in life
-  cannot be **earned** by hard work
-+ we receive them by God's **grace**
-
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
-## 1. **Success** and Security <small class="hl2">(v1)</small>
-## 2. **Sleep** <small class="hl2">(v2)</small>
-## 3. **Sons** / Daughters <small class="hl2">(v3-5)</small>
+## 1. **Success** and Security <small class="ref">(v1)</small>
+## 2. **Sleep** <small class="ref">(v2)</small>
+## 3. **Sons** / Daughters <small class="ref">(v3-5)</small>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
@@ -29,6 +21,10 @@ the builders **labor** in vain.
 
 Unless the Lord **watches** over the city, <br/>
 the guards **stand watch** in vain.
+
+<div class="ref">
+Psalm 127:1 (NIV)
+</div>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-K3uOmmlQmOo-pencil_shavings.jpg" -->
@@ -44,7 +40,6 @@ The builders labor **in vain**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DtHTWqkgBZc-forest_house.jpg" -->
-## 1 Chr 17:1 <small>(NIV) (p.1/3)</small>
 After **David** was settled in his **palace**, <br/>
 he said to Nathan the prophet,
 
@@ -52,13 +47,16 @@ he said to Nathan the prophet,
 while the **ark** of the covenant of the Lord <br/>
 is under a **tent**.”
 
+<div class="ref">
+1 Chronicles 17:1 (NIV) (p.1/3)
+</div>
+
 >>>
 + project, do sth great for God
 + what was God's response?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DtHTWqkgBZc-forest_house.jpg" -->
-## 1 Chr 17:4,7 <small>(NIV) (p.2/3)</small>
 **You are not** the one <br/>
 to build Me a house to dwell in.
 
@@ -67,6 +65,10 @@ from tending the **flock**, <br/>
 and appointed you **ruler** <br/>
 over My people Israel.
 
+<div class="ref">
+1 Chronicles 17:4,7 (NIV) (p.2/3)
+</div>
+
 >>>
 + God does not need my projects
 + God is the one who has built us up
@@ -74,13 +76,16 @@ over My people Israel.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DtHTWqkgBZc-forest_house.jpg" -->
-## 1 Chr 17:10-11 <small>(NIV) (p.3/3)</small>
 I declare to you that <br/>
 **the Lord** will build a house for you:
 
 I will raise up your **offspring** to succeed you, <br/>
 one of your own **sons**, <br/>
 and I will establish **his kingdom**.
+
+<div class="ref">
+1 Chronicles 17:10-11 (NIV) (p.3/3)
+</div>
 
 >>>
 + 12 He is the one who will build a house for me, and I will establish his throne forever.
@@ -97,6 +102,10 @@ the builders *labor* in vain.
 Unless the Lord **watches** over the city, <br/>
 the guards **stand watch** in vain.
 
+<div class="ref">
+Psalm 127:1 (NIV)
+</div>
+
 >>>
 + security, fear
 + money, educ as safety net
@@ -105,7 +114,6 @@ the guards **stand watch** in vain.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
-## Mat 6:31-32 <small>(NIV) (p.1/2)</small>
 So **do not worry**, saying,
 
 ‘What shall we **eat**?’ <br/>
@@ -116,20 +124,27 @@ For the **pagans** run after all these things, <br/>
 and your **heavenly Father** <br/>
 **knows** that you need them.
 
+<div class="ref">
+Matthew 6:31-32 (NIV) (p.1/2)
+</div>
+
 >>>
 Ps 37: do not fret, leads only to evil
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
-## Mat 6:33 <small>(NIV) (p.2/2)</small>
 But seek first **his kingdom** <br/>
 and **his righteousness**,
 
 and all these things <br/>
 will be given to you as well.
 
+<div class="ref">
+Matthew 6:33 (NIV) (p.2/2)
+</div>
+
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # What defines my **success**?
 # What is my source of **security**?
 
@@ -138,9 +153,9 @@ will be given to you as well.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
-## 1. *Success* and Security <small class="hl2">(v1)</small>
-## 2. **Sleep** <small class="hl2">(v2)</small>
-## 3. *Sons* / Daughters <small class="hl2">(v3-5)</small>
+## 1. Success and Security <small class="ref">(v1)</small>
+## 2. **Sleep** <small class="ref">(v2)</small>
+## 3. Sons / Daughters <small class="ref">(v3-5)</small>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
@@ -149,6 +164,10 @@ and **stay up** late, <br/>
 **toiling** for food to eat --
 
 for he **grants sleep** to those he loves.
+
+<div class="ref">
+Psalm 127:2 (NIV)
+</div>
 
 >>>
 + rise for sake of being early
@@ -160,7 +179,6 @@ for he **grants sleep** to those he loves.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8EFA86nI6yg-desert_cracks.jpg" -->
-## Genesis 3:17-38 <small>(NIV)</small>
 **Cursed** is the ground because of you; <br/>
 through **painful toil** <br/>
 you will eat **food** from it <br/>
@@ -169,6 +187,10 @@ all the days of your life.
 It will produce  <br/>
 **thorns and thistles** for you, <br/>
 and you will eat the plants of the field.
+
+<div class="ref">
+Genesis 3:17-38 (NIV)
+</div>
 
 >>>
 + Specific to Adam/man
@@ -181,7 +203,6 @@ and you will eat the plants of the field.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-KtOid0FLjqU-spain_house.jpg" -->
-## Ecclesiastes 6:2 <small>(NIV)</small>
 God gives some people <br/>
 **wealth, possessions and honor**, <br/>
 so that they **lack nothing** <br/>
@@ -193,18 +214,25 @@ and **strangers** enjoy them instead.
 
 This is **meaningless**, a grievous evil.
 
+<div class="ref">
+Ecclesiastes 6:2 (NIV)
+</div>
+
 >>>
 + "grievous evil": result of curse from sin
 + but work in the Lord is **blessed**:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qgHGDbbSNm8-share_tomatoes.jpg" -->
-## Psalm 128:1-2 <small>(NIV)</small>
 Blessed are all who **fear the Lord**, <br/>
 who walk in **obedience** to him.
 
 You will eat the **fruit of your labor**; <br/>
 **blessings and prosperity** will be yours.
+
+<div class="ref">
+Psalm 128:1-2 (NIV)
+</div>
 
 >>>
 + Work (our job): fear God + obey commands
@@ -217,15 +245,18 @@ for he **grants sleep** to those he loves.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-55_MpWjN1Lc-sleep.jpg" -->
-## Ecclesiastes 5:12 <small>(NIV)</small>
 The **sleep** of a **laborer** is sweet, <br/>
 whether they eat **little** or much,
 
 but as for the **rich**, <br/>
 their abundance permits them **no sleep**.
 
+<div class="ref">
+Ecclesiastes 5:12 (NIV)
+</div>
+
 ---
-<!-- .slide: class="Q" data-background="white" -->
+<!-- .slide: data-background="white" -->
 # Do I view **sleep** as God's **grace**
 # or a necessary **evil**?
 
@@ -236,9 +267,9 @@ their abundance permits them **no sleep**.
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
-## 1. *Success* and Security <small class="hl2">(v1)</small>
-## 2. *Sleep* <small class="hl2">(v2)</small>
-## 3. **Sons / Daughters** <small class="hl2">(v3-5)</small>
+## 1. Success and Security <small class="ref">(v1)</small>
+## 2. Sleep <small class="ref">(v2)</small>
+## 3. **Sons / Daughters** <small class="ref">(v3-5)</small>
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
