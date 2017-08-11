@@ -2,6 +2,10 @@
 # Labour of Grace
 ## Psalm 127
 
+>>>
++ **earned** vs **grace**
++ **capability** vs inability
+
 ---
 <!-- .slide: data-background="white" -->
 ## The most **valuable** <br/> things in life
@@ -63,28 +67,30 @@ Psalm 127:5 (NIV) (p.4/4)
 ## 3. **Sons** / Daughters <small class="ref">(v3-5)</small>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-K3uOmmlQmOo-pencil_shavings.jpg" -->
 Unless the Lord **builds** the house, <br/>
 the builders **labor** in vain.
 
-Unless the Lord **watches** over the city, <br/>
-the guards **stand watch** in vain.
+Unless the Lord *watches* over the city, <br/>
+the guards *stand watch* in vain.
 
 <div class="ref">
 Psalm 127:1 (NIV)
 </div>
 
----
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-K3uOmmlQmOo-pencil_shavings.jpg" -->
-The builders labor **in vain**
-
 >>>
-+ projects / endeavours
++ **projects** / endeavours
   + edu, career
-  + house: **family**, legacy
-+ worthless, false, deceptive
+  + "house": **family**, legacy
++ "in vain" (*shav*): worthless, false, deceptive
   + cf *hebel* (Eccl): breath, fleeting
-+ incl even proj **for God**: e.g. David
++ not **prediction** of outcome
+  + but moral **judgment**:
+  + build according to a **lie**
++ not just "worldly" projects (money)
+  + even projects **for God**
+  + David, when secure in reign
+  + had **idea** of proj for God:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DtHTWqkgBZc-forest_house.jpg" -->
@@ -100,8 +106,10 @@ is under a **tent**.”
 </div>
 
 >>>
-+ project, do sth great for God
-+ what was God's response?
++ big **investment**: labour, money
+  + David had the **resources**
+  + do sth **great** for God
++ what was God's **response**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DtHTWqkgBZc-forest_house.jpg" -->
@@ -118,9 +126,10 @@ over My people Israel.
 </div>
 
 >>>
-+ God does not need my projects
-+ God is the one who has built us up
-+ like child "helping" in kitchen
++ God does not **need** my projects
+  + **child** "helping" in kitchen
++ It is **God** who has built **us**
+  + holds our **futures**: continues:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DtHTWqkgBZc-forest_house.jpg" -->
@@ -137,10 +146,15 @@ and I will establish **his kingdom**.
 
 >>>
 + 12 He is the one who will build a house for me, and I will establish his throne forever.
-+ not just Solomon, but Christ the Son of David
++ not just **Solomon**, but via him to:
+  + **Christ** the Son of David
 + our responsibility:
   + good + faithful **servant**
   + not foreman / **director**!
++ remain **faithful** to covenant
+  + not **employment**, transactional
++ v1a is about **success**, achievement
+  + v1b is about **security**:
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
@@ -155,10 +169,12 @@ Psalm 127:1 (NIV)
 </div>
 
 >>>
-+ security, fear
-+ money, educ as safety net
++ "watches": **keep**, protect, hold fast
+  + "stand watch": stay **awake**
++ security, **fear**
++ money, educ as **safety net**
   + US: guns
-+ old/ill: how survive?
++ old/ill: how will I **survive**?
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
@@ -190,6 +206,9 @@ will be given to you as well.
 <div class="ref">
 Matthew 6:33 (NIV) (p.2/2)
 </div>
+
+>>>
++ honour God first
 
 ---
 <!-- .slide: data-background="white" -->
