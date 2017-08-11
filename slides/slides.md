@@ -8,6 +8,9 @@
 ## are not **earned** by hard work
 ## but given by God's **grace**
 
+[###](#/outline)
+<!-- .element: style="color:rgba(0,0,0,0.2)" -->
+
 ---
 Unless the Lord **builds** the house, <br/>
 the builders **labor** in vain.
