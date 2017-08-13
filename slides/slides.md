@@ -240,8 +240,9 @@ Psalm 127:2a (NIV)
 </div>
 
 >>>
-+ rise for sake of being early
-+ tarry/delay sit
++ rise for sake of being **early**
++ **tarry**/delay sit
+  + going to sleep is act of **faith**
 + **bread** of toil/suffering
 + **work** orig good:
   + fruitful, **fulfilling**, fun
@@ -263,9 +264,10 @@ Genesis 3:17-38 (NIV)
 </div>
 
 >>>
-+ Specific to Adam/man
-+ Not that toil is noble
-  + result of curse
++ Specific to Adam/**man**
+  + had **work** assigned by God
++ but **toil** is not noble
+  + result of **curse**
 + what **good** is it to
   + work hard, **save** up
   + not **enjoy** it?
@@ -305,9 +307,11 @@ Psalm 128:1-2 (NIV)
 </div>
 
 >>>
-+ Work (our job): fear God + obey commands
-  + the whole of man
-+ Rest in God's abundant grace + providence
++ Work (our job): **fear** God + **obey** cmd
+  + the **whole** of man (Ecc12)
++ not: God as **means** to achieve goals
+  + vending, genie
++ Rest in God's abundant **grace** + providence
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
@@ -320,7 +324,8 @@ Psalm 127:2b (NIV)
 >>>
 + **beloved**: Jedidiah
 + gives even in his sleep
-+ sleep as a **gift**
++ sleep as a **gift**, not earned:
+  + e.g. waking up mom-in-law
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-55_MpWjN1Lc-sleep.jpg" -->
@@ -333,6 +338,16 @@ their abundance permits them **no sleep**.
 <div class="ref">
 Ecclesiastes 5:12 (NIV)
 </div>
+
+>>>
++ work (**employment**, not toil)
+  + is a **blessing**
+  + **sleep** is a blessing
++ money brings **worries**:
+  + preserve **safety net**
+  + corrupt **kids**
+  + false **friends**
++ rely on **own** work + savings
 
 ---
 <!-- .slide: data-background="white" -->
