@@ -15,6 +15,11 @@
 [###](#/outline)
 <!-- .element: style="color:rgba(0,0,0,0.2)" -->
 
+>>>
++ 15 psalms of **ascents**:
++ up **Jerusalem** hill up worship
++ Levites up 15 steps to **temple**
+
 ---
 Unless the Lord **builds** the house, <br/>
 the builders **labor** in vain.
