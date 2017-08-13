@@ -252,7 +252,7 @@ you will eat **food** from it <br/>
 all the days of your life.
 
 It will produce  <br/>
-**thorns and thistles** for you, <br/>
+**thorns** and **thistles** for you, <br/>
 and you will eat the plants of the field.
 
 <div class="ref">
@@ -271,12 +271,12 @@ Genesis 3:17-38 (NIV)
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-KtOid0FLjqU-spain_house.jpg" -->
 God gives some people <br/>
-**wealth, possessions and honor**, <br/>
+**wealth**, **possessions** and **honor**, <br/>
 so that they **lack nothing** <br/>
 their hearts desire,
 
 but God does not grant them <br/>
-the **ability to enjoy** them, <br/>
+the ability to **enjoy** them, <br/>
 and **strangers** enjoy them instead.
 
 This is **meaningless**, a grievous evil.
@@ -294,8 +294,8 @@ Ecclesiastes 6:2 (NIV)
 Blessed are all who **fear the Lord**, <br/>
 who walk in **obedience** to him.
 
-You will eat the **fruit of your labor**; <br/>
-**blessings and prosperity** will be yours.
+You will eat the **fruit** of your **labor**; <br/>
+**blessings** and **prosperity** will be yours.
 
 <div class="ref">
 Psalm 128:1-2 (NIV)
@@ -325,7 +325,7 @@ Ecclesiastes 5:12 (NIV)
 ---
 <!-- .slide: data-background="white" -->
 # Do I view **sleep** as God's **grace**
-# or a necessary **evil**?
+# or <br/> a necessary **evil**?
 
 >>>
 + Do I **toil** in my own strength,
