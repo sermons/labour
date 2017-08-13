@@ -228,12 +228,10 @@ Matthew 6:33 (NIV) (p.2/2)
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
 In vain you **rise early** <br/>
 and **stay up** late, <br/>
-**toiling** for food to eat --
-
-for he **grants sleep** to those he loves.
+**toiling** for food to eat
 
 <div class="ref">
-Psalm 127:2 (NIV)
+Psalm 127:2a (NIV)
 </div>
 
 >>>
@@ -308,7 +306,16 @@ Psalm 128:1-2 (NIV)
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
-for he **grants sleep** to those he loves.
+for he **grants sleep** to those he **loves**.
+
+<div class="ref">
+Psalm 127:2b (NIV)
+</div>
+
+>>>
++ **beloved**: Jedidiah
++ gives even in his sleep
++ sleep as a **gift**
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-55_MpWjN1Lc-sleep.jpg" -->
@@ -339,25 +346,13 @@ Ecclesiastes 5:12 (NIV)
 ## 3. **Sons / Daughters** <small class="ref">(v3-5)</small>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
 Children are a **heritage** from the Lord, <br/>
 offspring a **reward** from him.
 
-Like **arrows** in the hands of a **warrior** <br/>
-are children born in one’s youth.
-
----
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
-**Blessed** is the man <br/>
-whose quiver is full of them.
-
-They will not be put to **shame** <br/>
-when they **contend** <br/>
-with their opponents in court.
-
----
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
-Children are a **heritage** from the Lord
+<div class="ref">
+Psalm 127:3 (NIV)
+</div>
 
 >>>
 + heritage: inheritance
@@ -367,7 +362,15 @@ Children are a **heritage** from the Lord
 
 ---
 <!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-1557473-arrow.jpg" -->
-Like **arrows** in the hands of a **warrior**
+Like **arrows** in the hands of a **warrior** <br/>
+are children born in one’s youth.
+
+**Blessed** is the man <br/>
+whose quiver is full of them.
+
+<div class="ref">
+Psalm 127:4-5 (NIV)
+</div>
 
 >>>
 + arrows: directed **intent**
