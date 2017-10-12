@@ -67,6 +67,7 @@ with their opponents in court.
 1. **Success** and Security [(v1)](# "ref")
 2. **Sleep** [(v2)](# "ref")
 3. **Sons** / Daughters [(v3-5)](# "ref")
+
 <!-- .element: class="outline" -->
 
 ---
@@ -175,7 +176,7 @@ the guards **stand watch** in vain.
 + old/ill: how will I **survive**?
 
 ---
-<!-- .slide: %<= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
 So **do not worry**, saying,
 
 ‘What shall we **eat**?’ <br/>
@@ -192,7 +193,7 @@ and your **heavenly Father** <br/>
 Ps 37: do not fret, leads only to evil
 
 ---
-<!-- .slide: %<= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
 But seek first **his kingdom** <br/>
 and **his righteousness**,
 
