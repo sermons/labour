@@ -215,9 +215,12 @@ will be given to you as well.
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
-## 1. Success and Security <small class="ref">(v1)</small>
-## 2. **Sleep** <small class="ref">(v2)</small>
-## 3. Sons / Daughters <small class="ref">(v3-5)</small>
+## Labour of Grace [(Ps 127)](# "ref")
+1. Success and Security [(v1)](# "ref")
+2. **Sleep** [(v2)](# "ref")
+3. Sons / Daughters [(v3-5)](# "ref")
+
+<!-- .element: class="outline" -->
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
@@ -339,9 +342,12 @@ their abundance permits them **no sleep**.
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
-## 1. Success and Security <small class="ref">(v1)</small>
-## 2. Sleep <small class="ref">(v2)</small>
-## 3. **Sons / Daughters** <small class="ref">(v3-5)</small>
+## Labour of Grace [(Ps 127)](# "ref")
+1. Success and Security [(v1)](# "ref")
+2. Sleep [(v2)](# "ref")
+3. **Sons / Daughters** [(v3-5)](# "ref")
+
+<!-- .element: class="outline" -->
 
 ---
 <!-- .slide: <%= bg("unsplash-9mzGpUpqUpw-girl_dancing.jpg") %> -->
