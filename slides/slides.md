@@ -1,4 +1,4 @@
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> id="title" -->
 # Labour of Grace
 ## Psalm 127
 
@@ -12,8 +12,7 @@
 ## are not **earned** by hard work
 ## but given by God's **grace**
 
-[###](#/outline)
-<!-- .element: style="color:rgba(0,0,0,0.2)" -->
+[###](#/outline "secret")
 
 >>>
 + 15 psalms of **ascents**:
@@ -21,39 +20,38 @@
 + Levites up 15 steps to **temple**
 
 ---
+[1](# "ref")
 Unless the Lord **builds** the house, <br/>
 the builders **labor** in vain.
 
 Unless the Lord **watches** over the city, <br/>
 the guards **stand watch** in vain.
 
-<div class="ref">
-Psalm 127:1 (NIV) (p.1/4)
-</div>
+[Psalm 127:1 (NIV) (p.1/4)](# "ref")
 
 ---
+[2](# "ref")
 In vain you **rise early** <br/>
 and **stay up** late, <br/>
 **toiling** for food to eat --
 
 for he **grants sleep** to those he loves.
 
-<div class="ref">
-Psalm 127:2 (NIV) (p.2/4)
-</div>
+[Psalm 127:2 (NIV) (p.2/4)](# "ref")
 
 ---
+[3](# "ref")
 Children are a **heritage** from the Lord, <br/>
 offspring a **reward** from him.
 
+[4](# "ref")
 Like **arrows** in the hands of a **warrior** <br/>
 are children born in one’s youth.
 
-<div class="ref">
-Psalm 127:3-4 (NIV) (p.3/4)
-</div>
+[Psalm 127:3-4 (NIV) (p.3/4)](# "ref")
 
 ---
+[5](# "ref")
 **Blessed** is the man <br/>
 whose quiver is full of them.
 
@@ -61,27 +59,25 @@ They will not be put to **shame** <br/>
 when they **contend** <br/>
 with their opponents in court.
 
-<div class="ref">
-Psalm 127:5 (NIV) (p.4/4)
-</div>
+[Psalm 127:5 (NIV) (p.4/4)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" id="outline" -->
-## 1. **Success** and Security <small class="ref">(v1)</small>
-## 2. **Sleep** <small class="ref">(v2)</small>
-## 3. **Sons** / Daughters <small class="ref">(v3-5)</small>
+<!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> id="outline" -->
+## Labour of Grace [(Ps 127)](# "ref")
+1. **Success** and Security [(v1)](# "ref")
+2. **Sleep** [(v2)](# "ref")
+3. **Sons** / Daughters [(v3-5)](# "ref")
+<!-- .element: class="outline" -->
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-K3uOmmlQmOo-pencil_shavings.jpg" -->
+<!-- .slide: <%= bg("unsplash-K3uOmmlQmOo-pencil_shavings.jpg") %> -->
 Unless the Lord **builds** the house, <br/>
 the builders **labor** in vain.
 
 Unless the Lord *watches* over the city, <br/>
 the guards *stand watch* in vain.
 
-<div class="ref">
-Psalm 127:1 (NIV)
-</div>
+[Psalm 127:1 (NIV)](# "ref")
 
 >>>
 + **projects** / endeavours
@@ -98,7 +94,8 @@ Psalm 127:1 (NIV)
   + had **idea** of proj for God:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DtHTWqkgBZc-forest_house.jpg" -->
+<!-- .slide: <%= bg("unsplash-DtHTWqkgBZc-forest_house.jpg") %> -->
+[1](# "ref")
 After **David** was settled in his **palace**, <br/>
 he said to Nathan the prophet,
 
@@ -106,9 +103,7 @@ he said to Nathan the prophet,
 while the **ark** of the covenant of the Lord <br/>
 is under a **tent**.”
 
-<div class="ref">
-1 Chronicles 17:1 (NIV) (p.1/3)
-</div>
+[1 Chronicles 17:1 (NIV) (p.1/3)](# "ref")
 
 >>>
 + big **investment**: labour, money
@@ -117,18 +112,18 @@ is under a **tent**.”
 + what was God's **response**?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DtHTWqkgBZc-forest_house.jpg" -->
+<!-- .slide: <%= bg("unsplash-DtHTWqkgBZc-forest_house.jpg") %> -->
+[4](# "ref")
 **You are not** the one <br/>
 to build Me a house to dwell in.
 
-[...] **I took you** from the pasture, <br/>
+[7](# "ref")
+**I took you** from the pasture, <br/>
 from tending the **flock**, <br/>
 and appointed you **ruler** <br/>
 over My people Israel.
 
-<div class="ref">
-1 Chronicles 17:4,7 (NIV) (p.2/3)
-</div>
+[1 Chronicles 17:4,7 (NIV) (p.2/3)](# "ref")
 
 >>>
 + God does not **need** my projects
@@ -137,17 +132,17 @@ over My people Israel.
   + holds our **futures**: continues:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-DtHTWqkgBZc-forest_house.jpg" -->
+<!-- .slide: <%= bg("unsplash-DtHTWqkgBZc-forest_house.jpg") %> -->
+[10](# "ref")
 I declare to you that <br/>
 **the Lord** will build a house for you:
 
+[11](# "ref")
 I will raise up your **offspring** to succeed you, <br/>
 one of your own **sons**, <br/>
 and I will establish **his kingdom**.
 
-<div class="ref">
-1 Chronicles 17:10-11 (NIV) (p.3/3)
-</div>
+[1 Chronicles 17:10-11 (NIV) (p.3/3)](# "ref")
 
 >>>
 + 12 He is the one who will build a house for me, and I will establish his throne forever.
@@ -162,16 +157,14 @@ and I will establish **his kingdom**.
   + v1b is about **security**:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
 Unless the Lord *builds* the house, <br/>
 the builders *labor* in vain.
 
 Unless the Lord **watches** over the city, <br/>
 the guards **stand watch** in vain.
 
-<div class="ref">
-Psalm 127:1 (NIV)
-</div>
+[Psalm 127:1 (NIV)](# "ref")
 
 >>>
 + "watches": **keep**, protect, hold fast
@@ -182,7 +175,7 @@ Psalm 127:1 (NIV)
 + old/ill: how will I **survive**?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
+<!-- .slide: %<= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
 So **do not worry**, saying,
 
 ‘What shall we **eat**?’ <br/>
@@ -193,24 +186,20 @@ For the **pagans** run after all these things, <br/>
 and your **heavenly Father** <br/>
 **knows** that you need them.
 
-<div class="ref">
-Matthew 6:31-32 (NIV) (p.1/2)
-</div>
+[Matthew 6:31-32 (NIV) (p.1/2)](# "ref")
 
 >>>
 Ps 37: do not fret, leads only to evil
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8CwoHpZe3qE-hands.jpg" -->
+<!-- .slide: %<= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
 But seek first **his kingdom** <br/>
 and **his righteousness**,
 
 and all these things <br/>
 will be given to you as well.
 
-<div class="ref">
-Matthew 6:33 (NIV) (p.2/2)
-</div>
+[Matthew 6:33 (NIV) (p.2/2)](# "ref")
 
 >>>
 + honour God first
@@ -224,20 +213,18 @@ Matthew 6:33 (NIV) (p.2/2)
 + success: act justly, love mercy, walk humbly with God
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
 ## 1. Success and Security <small class="ref">(v1)</small>
 ## 2. **Sleep** <small class="ref">(v2)</small>
 ## 3. Sons / Daughters <small class="ref">(v3-5)</small>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
 In vain you **rise early** <br/>
 and **stay up** late, <br/>
 **toiling** for food to eat
 
-<div class="ref">
-Psalm 127:2a (NIV)
-</div>
+[Psalm 127:2a (NIV)](# "ref")
 
 >>>
 + rise for sake of being **early**
@@ -249,7 +236,7 @@ Psalm 127:2a (NIV)
 + but **sin** resulted in **curse**:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-8EFA86nI6yg-desert_cracks.jpg" -->
+<!-- .slide: <%= bg("unsplash-8EFA86nI6yg-desert_cracks.jpg") %> -->
 **Cursed** is the ground because of you; <br/>
 through **painful toil** <br/>
 you will eat **food** from it <br/>
@@ -259,9 +246,7 @@ It will produce  <br/>
 **thorns** and **thistles** for you, <br/>
 and you will eat the plants of the field.
 
-<div class="ref">
-Genesis 3:17-38 (NIV)
-</div>
+[Genesis 3:17-38 (NIV)](# "ref")
 
 >>>
 + Specific to Adam/**man**
@@ -274,7 +259,7 @@ Genesis 3:17-38 (NIV)
   + kids **squander** it?
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-KtOid0FLjqU-spain_house.jpg" -->
+<!-- .slide: <%= bg("unsplash-KtOid0FLjqU-spain_house.jpg") %> -->
 God gives some people <br/>
 **wealth**, **possessions** and **honor**, <br/>
 so that they **lack nothing** <br/>
@@ -286,25 +271,21 @@ and **strangers** enjoy them instead.
 
 This is **meaningless**, a grievous evil.
 
-<div class="ref">
-Ecclesiastes 6:2 (NIV)
-</div>
+[Ecclesiastes 6:2 (NIV)](# "ref")
 
 >>>
 + "grievous evil": result of curse from sin
 + but work in the Lord is **blessed**:
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-qgHGDbbSNm8-share_tomatoes.jpg" -->
+<!-- .slide: <%= bg("unsplash-qgHGDbbSNm8-share_tomatoes.jpg") %> -->
 Blessed are all who **fear the Lord**, <br/>
 who walk in **obedience** to him.
 
 You will eat the **fruit** of your **labor**; <br/>
 **blessings** and **prosperity** will be yours.
 
-<div class="ref">
-Psalm 128:1-2 (NIV)
-</div>
+[Psalm 128:1-2 (NIV)](# "ref")
 
 >>>
 + Work (our job): **fear** God + **obey** cmd
@@ -314,12 +295,10 @@ Psalm 128:1-2 (NIV)
 + Rest in God's abundant **grace** + providence
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
 for he **grants sleep** to those he **loves**.
 
-<div class="ref">
-Psalm 127:2b (NIV)
-</div>
+[Psalm 127:2b (NIV)](# "ref")
 
 >>>
 + **beloved**: Jedidiah
@@ -328,16 +307,14 @@ Psalm 127:2b (NIV)
   + e.g. waking up mom-in-law
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-55_MpWjN1Lc-sleep.jpg" -->
+<!-- .slide: <%= bg("unsplash-55_MpWjN1Lc-sleep.jpg") %> -->
 The **sleep** of a **laborer** is sweet, <br/>
 whether they eat **little** or much,
 
 but as for the **rich**, <br/>
 their abundance permits them **no sleep**.
 
-<div class="ref">
-Ecclesiastes 5:12 (NIV)
-</div>
+[Ecclesiastes 5:12 (NIV)](# "ref")
 
 >>>
 + work (**employment**, not toil)
@@ -360,19 +337,17 @@ Ecclesiastes 5:12 (NIV)
 + sleep + Sabbath as act of **faith**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
 ## 1. Success and Security <small class="ref">(v1)</small>
 ## 2. Sleep <small class="ref">(v2)</small>
 ## 3. **Sons / Daughters** <small class="ref">(v3-5)</small>
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-9mzGpUpqUpw-girl_dancing.jpg" -->
+<!-- .slide: <%= bg("unsplash-9mzGpUpqUpw-girl_dancing.jpg") %> -->
 Children are a **heritage** from the Lord, <br/>
 offspring a **reward** from him.
 
-<div class="ref">
-Psalm 127:3 (NIV)
-</div>
+[Psalm 127:3 (NIV)](# "ref")
 
 >>>
 + heritage: inheritance
@@ -381,16 +356,14 @@ Psalm 127:3 (NIV)
 + entrusted to our **stewardship**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/pixabay-1557473-arrow.jpg" -->
+<!-- .slide: <%= bg("pixabay-1557473-arrow.jpg") %> -->
 Like **arrows** in the hands of a **warrior** <br/>
 are children born in one’s youth.
 
 **Blessed** is the man <br/>
 whose quiver is full of them.
 
-<div class="ref">
-Psalm 127:4-5 (NIV)
-</div>
+[Psalm 127:4-5 (NIV)](# "ref")
 
 >>>
 + arrows: directed **intent**
@@ -399,13 +372,11 @@ Psalm 127:4-5 (NIV)
   + every child a **blessing**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-1DkWWN1dr-s-father_son_beach.jpg" -->
+<!-- .slide: <%= bg("unsplash-1DkWWN1dr-s-father_son_beach.jpg") %> -->
 A **wise son** brings **joy** to his father, <br/>
 but a **foolish son** brings **grief** to his mother.
 
-<div class="ref">
-Proverbs 10:1 (NIV)
-</div>
+[Proverbs 10:1 (NIV)](# "ref")
 
 >>>
 + not put to **shame** in court
@@ -424,43 +395,37 @@ Proverbs 10:1 (NIV)
   + sons + daughters
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
 Unless the Lord **builds** the house, <br/>
 the builders **labor** in vain.
 
 Unless the Lord **watches** over the city, <br/>
 the guards **stand watch** in vain.
 
-<div class="ref">
-Psalm 127:1 (NIV) (p.1/4)
-</div>
+[Psalm 127:1 (NIV) (p.1/4)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
 In vain you **rise early** <br/>
 and **stay up** late, <br/>
 **toiling** for food to eat --
 
 for he **grants sleep** to those he loves.
 
-<div class="ref">
-Psalm 127:2 (NIV) (p.2/4)
-</div>
+[Psalm 127:2 (NIV) (p.2/4)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
 Children are a **heritage** from the Lord, <br/>
 offspring a **reward** from him.
 
 Like **arrows** in the hands of a **warrior** <br/>
 are children born in one’s youth.
 
-<div class="ref">
-Psalm 127:3-4 (NIV) (p.3/4)
-</div>
+[Psalm 127:3-4 (NIV) (p.3/4)](# "ref")
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" -->
+<!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
 **Blessed** is the man <br/>
 whose quiver is full of them.
 
@@ -468,9 +433,7 @@ They will not be put to **shame** <br/>
 when they **contend** <br/>
 with their opponents in court.
 
-<div class="ref">
-Psalm 127:5 (NIV) (p.4/4)
-</div>
+[Psalm 127:5 (NIV) (p.4/4)](# "ref")
 
 >>>
 1. Success and Security
@@ -481,5 +444,5 @@ Psalm 127:5 (NIV) (p.4/4)
 + we receive them by God's **grace**
 
 ---
-<!-- .slide: data-background-image="https://sermons.seanho.com/img/bg/unsplash-eRQPWFijcx4-mtn_lake_boat.jpg" class="empty" -->
+<!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> class="empty" -->
 
