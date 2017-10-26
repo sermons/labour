@@ -3,8 +3,13 @@
 ## Psalm 127
 
 >>>
-+ **earned** vs **grace**
-+ **capability** vs inability
++ Today's passage challenges us to focus
+  + not on what we've **earned**
+  + but on God's **grace** toward us
++ instead of boasting about **capability**:
+  + what I can **accomplish**, skills, talents
++ boast in my **inability**:
+  + complete **reliance** on God's power
 
 ---
 <!-- .slide: data-background="white" -->
