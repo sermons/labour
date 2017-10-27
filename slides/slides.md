@@ -373,8 +373,13 @@ for he **grants sleep** to those he **loves**.
   + **Jedidiah** (name of Solomon, 2Sam12:24-25)
   + remember **we** are God's beloved!
 + sleep is a **gift**, not earned
-  + e.g. waking up mom-in-law
-+ Rest in God's abundant **grace** + providence
++ e.g. call, woke up mom-in-law from **nap**:
+  + not so **easy** to fall back asleep!
++ we have fruitful **labour** given by God
+  + not from **obligation**
+  + but His deep **love** for us
++ so we can **rest** in God's abundant **grace**:
+  + He **provides**
 
 ---
 <!-- .slide: <%= bg("unsplash-55_MpWjN1Lc-sleep.jpg") %> -->
@@ -390,11 +395,11 @@ their abundance permits them **no sleep**.
 + work (**employment**, not toil)
   + is a **blessing**
   + **sleep** is a blessing
-+ money brings **worries**:
-  + preserve **safety net**
-  + corrupt **kids**
-  + false **friends**
-+ rely on **own** work + savings
++ money only brings more **worries**:
+  + preserving my **safety net**
+  + corrupt/ungrateful **kids**
+  + false **friends** (only after money)
++ don't rely on **own** work + savings
 
 ---
 <!-- .slide: data-background="white" -->
@@ -402,8 +407,8 @@ their abundance permits them **no sleep**.
 # or <br/> a necessary **evil**?
 
 >>>
-+ Do I **toil** in my own strength,
-  + or **rest** in God's grace?
++ Do I **toil** in my own **strength**,
+  + or **rest** in God's **grace**?
 + sleep + Sabbath as act of **faith**
 
 ---
