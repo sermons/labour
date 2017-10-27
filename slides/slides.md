@@ -420,6 +420,9 @@ their abundance permits them **no sleep**.
 
 <!-- .element: class="outline" -->
 
+>>>
++ .
+
 ---
 <!-- .slide: <%= bg("unsplash-9mzGpUpqUpw-girl_dancing.jpg") %> -->
 Children are a **heritage** from the Lord, <br/>
@@ -428,9 +431,13 @@ offspring a **reward** from him.
 [Psalm 127:3 (NIV)](# "ref")
 
 >>>
-+ heritage: inheritance
++ "heritage": **inheritance**
   + Heb: **possession**, not succession
-+ owned by **God**
+  + inheritance is **Father's** property
++ we the **heirs** receive the inheritance
+  + only bc of our **relationship** w/the Father
+  + we ourselves are **adopted** as heirs
++ children are owned by **God**
 + entrusted to our **stewardship**
 
 ---
@@ -444,10 +451,18 @@ whose quiver is full of them.
 [Psalm 127:4-5 (NIV)](# "ref")
 
 >>>
-+ arrows: directed **intent**
-+ **quiver** full:
-  + gift, not **pursuit**
++ as with sleep: **grace**, not earned
+  + God does not **owe** us children
+  + not a **right**, but a **gift**
++ "warrior": mighty **champion** of valour
+  + "arrows": directed **intent**
++ opportunity to **shape** their character
+  + by **words** and my **actions**
++ then **release** them to fly by God's grace
++ **quiver** full: gift, not a **pursuit**
+  + not just cranking out more **babies**
   + every child a **blessing**
+  + responsibility to **train** each one
 
 ---
 <!-- .slide: <%= bg("unsplash-1DkWWN1dr-s-father_son_beach.jpg") %> -->
@@ -457,16 +472,22 @@ but a **foolish son** brings **grief** to his mother.
 [Proverbs 10:1 (NIV)](# "ref")
 
 >>>
-+ not put to **shame** in court
++ if don't **train** kids in God's wisdom,
+  + will bring us even more **grief**
++ **wisdom**: not book **smarts**, but
+  + God's truth: **holy** and peacable (Jam3:17)
 
 ---
 <!-- .slide: data-background="white" -->
 # **Why** does God give us **children**?
 
 >>>
-+ Why have kids?
-  + **single**: if/when have opportunity
-  + kids: our **choice**?
++ because they're **cute**?
++ so they'll **take care** of me when I'm **old**?
++ &rArr; kids **belong** to God
+  + **entrusted** to us in His **grace**
+  + to **train** according to God's way
+  + as a **testimony** to God's glory
 + Close by reading Psalm 127 once again:
   + success + security
   + sleep
