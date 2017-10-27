@@ -6,10 +6,10 @@
 + Today's passage challenges us to focus
   + not on what we've **earned**
   + but on God's **grace** toward us
-+ instead of boasting about **capability**:
++ instead of boasting in my **capability**:
   + what I can **accomplish**, skills, talents
 + boast in my **inability**:
-  + complete **reliance** on God's power
+  + complete **reliance** on God's power:
 
 ---
 <!-- .slide: data-background="white" -->
@@ -20,9 +20,10 @@
 [###](#/outline "secret")
 
 >>>
-+ 15 psalms of **ascents**:
-+ up **Jerusalem** hill up worship
-+ Levites up 15 steps to **temple**
++ Ps127 is one of 15 psalms of **ascents**:
++ going up **Jerusalem** hill to worship
+  + Levites up 15 steps to **temple**
++ train proper **attitude** as we worship God
 
 ---
 [1](# "ref")
@@ -75,29 +76,39 @@ with their opponents in court.
 
 <!-- .element: class="outline" -->
 
+>>>
++ 3 things that we cannot **earn**,
+  + only **receive** by grace:
++ **Success** (projects, family) and
+  + **security** (safety, peace)
++ **Sleep** (time management)
++ **Sons**/daughters (the blessing of children)
+
 ---
 <!-- .slide: <%= bg("unsplash-K3uOmmlQmOo-pencil_shavings.jpg") %> -->
 Unless the Lord **builds** the house, <br/>
 the builders **labor** in vain.
 
-Unless the Lord *watches* over the city, <br/>
-the guards *stand watch* in vain.
-
-[Psalm 127:1 (NIV)](# "ref")
+[Psalm 127:1a (NIV)](# "ref")
 
 >>>
-+ **projects** / endeavours
-  + edu, career
-  + "house": **family**, legacy
-+ "in vain" (*shav*): worthless, false, deceptive
-  + cf *hebel* (Eccl): breath, fleeting
-+ not **prediction** of outcome
-  + but moral **judgment**:
-  + build according to a **lie**
-+ not just "worldly" projects (money)
-  + even projects **for God**
-  + David, when secure in reign
-  + had **idea** of proj for God:
++ to "build" refers to **projects** / endeavours:
+  + education, **career**
+  + "house" often refers to **family**, legacy
++ "in vain" (*shav*): worthless, false, **deceptive**
+  + has a moral **negative** connotation
++ contrast with *hebel* (Eccl): breath, fleeting
+  + which only means **empty**, e.g., Abel
++ not a **prediction** of the outcome
+  + i.e., "you could try, but you'll fail"
++ but a moral **judgment**:
+  + "you build according to a **lie**"
+  + your **value** system deceives you
+  + **contrary** to God's truth
++ applies not just to "**worldly**" projects (money)
+  + even projects done **for God**:
++ e.g., King **David**, when secure in reign
+  + proposed a great **project** for God:
 
 ---
 <!-- .slide: <%= bg("unsplash-DtHTWqkgBZc-forest_house.jpg") %> -->
@@ -112,9 +123,9 @@ is under a **tent**.”
 [1 Chronicles 17:1 (NIV) (p.1/3)](# "ref")
 
 >>>
-+ big **investment**: labour, money
-  + David had the **resources**
-  + do sth **great** for God
++ this is a big **investment**: labour, money
+  + David figured he had **resources**
+  + do something **great** for God
 + what was God's **response**?
 
 ---
@@ -133,9 +144,10 @@ over My people Israel.
 
 >>>
 + God does not **need** my projects
-  + **child** "helping" in kitchen
+  + like a **child** "helping" in kitchen
 + It is **God** who has built **us**
-  + holds our **futures**: continues:
+  + holds our **futures**
++ God continues:
 
 ---
 <!-- .slide: <%= bg("unsplash-DtHTWqkgBZc-forest_house.jpg") %> -->
@@ -151,34 +163,37 @@ and I will establish **his kingdom**.
 [1 Chronicles 17:10-11 (NIV) (p.3/3)](# "ref")
 
 >>>
-+ 12 He is the one who will build a house for me, and I will establish his throne forever.
-+ not just **Solomon**, but via him to:
++ v12: He is the one who will build a house for me,
+  + and I will establish his throne forever.
++ not just referring to **Solomon**,
+  + but via royal line to
   + **Christ** the Son of David
-+ our responsibility:
-  + good + faithful **servant**
-  + not foreman / **director**!
-+ remain **faithful** to covenant
-  + not **employment**, transactional
-+ v1a is about **success**, achievement
-  + v1b is about **security**:
++ our responsibility is to be
+  + good + faithful **servants** (Mt25:21)
+  + not foreman / **directors**!
++ strive to be faithful to God's **covenant**
+  + not a **contract** (transactional, employment)
++ v1(a) is about **success**, achievement
+  + v1(b) is about **security**:
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
-Unless the Lord *builds* the house, <br/>
-the builders *labor* in vain.
-
 Unless the Lord **watches** over the city, <br/>
 the guards **stand watch** in vain.
 
-[Psalm 127:1 (NIV)](# "ref")
+[Psalm 127:1b (NIV)](# "ref")
 
 >>>
 + "watches": **keep**, protect, hold fast
   + "stand watch": stay **awake**
-+ security, **fear**
-+ money, educ as **safety net**
++ this refers to our sense of **security**
+  + i.e., what do we **fear**?
++ What is my **safety net**?  Money? Education?
   + US: guns
-+ old/ill: how will I **survive**?
++ As I get old/ill: how will I **survive**?
+  + worry about enough money in **retirement**
++ Jesus gives us **comfort** in famous
+  + Sermon on the Mount:
 
 ---
 <!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
@@ -195,7 +210,14 @@ and your **heavenly Father** <br/>
 [Matthew 6:31-32 (NIV) (p.1/2)](# "ref")
 
 >>>
-Ps 37: do not fret, leads only to evil
++ "pagans": whole rest of the **world**
+  + focus on **earning** living
+  + **saving** up to provide safety net
++ not that it is **wrong** to save money!
++ the problem is **worry**:
+  + (Ps37) do not **fret**: leads only to evil
++ worry takes our eyes off of
+  + what should be our **priority**:
 
 ---
 <!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
@@ -208,7 +230,11 @@ will be given to you as well.
 [Matthew 6:33 (NIV) (p.2/2)](# "ref")
 
 >>>
-+ honour God first
++ honour God **first**
++ make Him **king** in our hearts
+  + **proclaim** His kingship to others
++ pursue His **righteousness**
+  + in everything we do
 
 ---
 <!-- .slide: data-background="white" -->
@@ -216,7 +242,12 @@ will be given to you as well.
 # What is my source of **security**?
 
 >>>
-+ success: act justly, love mercy, walk humbly with God
++ God's definition of **success**:
+  + act **justly**, love **mercy**,
+  + walk **humbly** with God (Mic6:8)
++ **Security** comes from:
+  + seeking His **kingdom** + **righteousness**
+  + **trusting** God to take care of us
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
