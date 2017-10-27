@@ -20,10 +20,13 @@
 [###](#/outline "secret")
 
 >>>
-+ Ps127 is one of 15 psalms of **ascents**:
-+ going up **Jerusalem** hill to worship
++ There are 15 psalms of **ascents**:
+  + going up **Jerusalem** hill to worship
   + Levites up 15 steps to **temple**
 + train proper **attitude** as we worship God
++ Ps127 is written by King **Solomon**
+  + great **wisdom** + great **projects**
+  + all by God's **grace**
 
 ---
 [1](# "ref")
@@ -168,11 +171,11 @@ and I will establish **his kingdom**.
 + not just referring to **Solomon**,
   + but via royal line to
   + **Christ** the Son of David
-+ our responsibility is to be
++ **God** is the one with the **plan** / project
+  + far beyond our small life **goals**
++ our responsibility is simply to be
   + good + faithful **servants** (Mt25:21)
   + not foreman / **directors**!
-+ strive to be faithful to God's **covenant**
-  + not a **contract** (transactional, employment)
 + v1(a) is about **success**, achievement
   + v1(b) is about **security**:
 
@@ -190,6 +193,7 @@ the guards **stand watch** in vain.
   + i.e., what do we **fear**?
 + What is my **safety net**?  Money? Education?
   + US: guns
+  + are these really able to **protect** us?
 + As I get old/ill: how will I **survive**?
   + worry about enough money in **retirement**
 + Jesus gives us **comfort** in famous
@@ -258,6 +262,11 @@ will be given to you as well.
 
 <!-- .element: class="outline" -->
 
+>>>
++ we **build** in vain (deceiving ourselves)
+  + we **watch** in vain (false security)
++ even how we manage our **time** is in vain:
+
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
 In vain you **rise early** <br/>
@@ -267,13 +276,19 @@ and **stay up** late, <br/>
 [Psalm 127:2a (NIV)](# "ref")
 
 >>>
-+ rise for sake of being **early**
-+ **tarry**/delay sit
-  + going to sleep is act of **faith**
-+ **bread** of toil/suffering
-+ **work** orig good:
++ rise for sake of being **early**:
+  + stress, long to-do list
++ "stay up": **tarry**/delay sitting down:
+  + **body** tells me it's time to sleep
+  + but I **refuse**: too much work to do
++ &rArr; Going to sleep is an act of **faith**
+  + trust God will **provide**
+  + **yield** to God's design for my body
++ "toiling": eat bread of **suffering**
++ **work** was originally **good**:
   + fruitful, **fulfilling**, fun
-+ but **sin** resulted in **curse**:
++ but because of mankind's **sin**:
+  + work was **cursed**:
 
 ---
 <!-- .slide: <%= bg("unsplash-8EFA86nI6yg-desert_cracks.jpg") %> -->
@@ -289,14 +304,15 @@ and you will eat the plants of the field.
 [Genesis 3:17-38 (NIV)](# "ref")
 
 >>>
-+ Specific to Adam/**man**
-  + had **work** assigned by God
-+ but **toil** is not noble
-  + result of **curse**
++ Particularly applies to Adam / **men**
++ Had noble **work** assigned by God
+  + to be a **comforter**, **servant**, and **protector** (Gen2:15)
+  + but it became ignoble **toil**
 + what **good** is it to
   + work hard, **save** up
-  + not **enjoy** it?
+  + unable to **enjoy** it?
   + kids **squander** it?
++ King **Solomon** also reflected:
 
 ---
 <!-- .slide: <%= bg("unsplash-KtOid0FLjqU-spain_house.jpg") %> -->
@@ -314,8 +330,11 @@ This is **meaningless**, a grievous evil.
 [Ecclesiastes 6:2 (NIV)](# "ref")
 
 >>>
-+ "grievous evil": result of curse from sin
-+ but work in the Lord is **blessed**:
++ "grievous evil": result of **curse** from sin
++ We have seen grouchy **old men** like this
+  + we don't want to **become** like this
++ God has a **promise** of fruitful labour
+  + **how** do we obtain it?
 
 ---
 <!-- .slide: <%= bg("unsplash-qgHGDbbSNm8-share_tomatoes.jpg") %> -->
@@ -328,11 +347,20 @@ You will eat the **fruit** of your **labor**; <br/>
 [Psalm 128:1-2 (NIV)](# "ref")
 
 >>>
-+ Work (our job): **fear** God + **obey** cmd
-  + the **whole** of man (Ecc12)
-+ not: God as **means** to achieve goals
-  + vending, genie
-+ Rest in God's abundant **grace** + providence
++ **Ps128** right after today's passage
+  + connected to Ps127
++ echoes Solomon's conclusion in Eccl (12:13):
+  + **Fear** God + **obey** commands
++ this is the **whole** of man
+  + i.e., our entire **job** in life
++ not: using God as **means** to achieve my goals
+  + e.g., God as **vending** machine
+  + e.g., God as magic **genie**
+  + e.g., going to church so God will **bless** my work
++ my whole **purpose** should be:
+  + **fear** God + walk in **obedience**
++ This **fear** / reverence doesn't push us **away**,
+  + God draws us **near** in **love**:
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
@@ -341,10 +369,12 @@ for he **grants sleep** to those he **loves**.
 [Psalm 127:2b (NIV)](# "ref")
 
 >>>
-+ **beloved**: Jedidiah
-+ gives even in his sleep
-+ sleep as a **gift**, not earned:
++ His **beloved**:
+  + **Jedidiah** (name of Solomon, 2Sam12:24-25)
+  + remember **we** are God's beloved!
++ sleep is a **gift**, not earned
   + e.g. waking up mom-in-law
++ Rest in God's abundant **grace** + providence
 
 ---
 <!-- .slide: <%= bg("unsplash-55_MpWjN1Lc-sleep.jpg") %> -->
