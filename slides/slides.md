@@ -53,16 +53,12 @@ the guards **stand watch** in vain.
 [2](# "ref")
 In vain you **rise early** 
 and **stay up** late, <br/>
-**toiling** for food to eat --
-
+**toiling** for food to eat --<br>
 for he **grants sleep** to those he loves.
 
 <div class="zh">
 你們清晨早起，夜晚安歇，<br>
-吃勞碌得來的飯，本是枉然；
-</div>
-
-<div class="zh">
+吃勞碌得來的飯，本是枉然；<br>
 唯有耶和華所親愛的，必叫他安然睡覺。
 </div>
 
@@ -83,7 +79,8 @@ Like **arrows** in the hands of a **warrior** <br/>
 are children born in one’s youth.
 
 <div class="zh">
-少年時所生的兒女，好像勇士手中的箭。
+少年時所生的兒女，<br>
+好像勇士手中的箭。
 </div>
 
 [Psalm 127:3-4 (NIV) (p.3/4)](# "ref")
@@ -108,11 +105,11 @@ with their opponents in court.
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> id="outline" -->
 ## Labour of Grace [(Ps 127)](# "ref")
-1. **Success** / Security
+1. **Success** / Security <br>
   <span class="zh">成功與保障</span> [(v1)](# "ref")
-2. **Sleep**
+2. **Sleep** <br>
   <span class="zh">睡眠</span> [(v2)](# "ref")
-3. **Sons** / Daughters
+3. **Sons** / Daughters <br>
   <span class="zh">兒子與女兒</span> [(v3-5)](# "ref")
 
 <!-- .element: class="outline" -->
@@ -129,6 +126,11 @@ with their opponents in court.
 <!-- .slide: <%= bg("unsplash-K3uOmmlQmOo-pencil_shavings.jpg") %> -->
 Unless the Lord **builds** the house, <br/>
 the builders **labor** in vain.
+
+<div class="zh">
+若不是耶和華建造房屋，<br>
+建造的人就枉然勞力；
+</div>
 
 [Psalm 127:1a (NIV)](# "ref")
 
@@ -222,6 +224,11 @@ and I will establish **his kingdom**.
 Unless the Lord **watches** over the city, <br/>
 the guards **stand watch** in vain.
 
+<div class="zh">
+​若不是耶和華看守城池，<br>
+看守的人就枉然警醒。
+</div>
+
 [Psalm 127:1b (NIV)](# "ref")
 
 >>>
@@ -313,6 +320,11 @@ will be given to you as well.
 In vain you **rise early** <br/>
 and **stay up** late, <br/>
 **toiling** for food to eat
+
+<div class="zh">
+你們清晨早起，夜晚安歇，<br>
+吃勞碌得來的飯，本是枉然；
+</div>
 
 [Psalm 127:2a (NIV)](# "ref")
 
@@ -407,6 +419,11 @@ You will eat the **fruit** of your **labor**; <br/>
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
 for he **grants sleep** to those he **loves**.
 
+<div class="zh">
+唯有耶和華所親愛的，<br>
+必叫他安然睡覺。
+</div>
+
 [Psalm 127:2b (NIV)](# "ref")
 
 >>>
@@ -472,6 +489,11 @@ their abundance permits them **no sleep**.
 Children are a **heritage** from the Lord, <br/>
 offspring a **reward** from him.
 
+<div class="zh">
+兒女是耶和華所賜的產業，<br>
+所懷的胎是他所給的賞賜。
+</div>
+
 [Psalm 127:3 (NIV)](# "ref")
 
 >>>
@@ -486,11 +508,22 @@ offspring a **reward** from him.
 
 ---
 <!-- .slide: <%= bg("pixabay-1557473-arrow.jpg") %> -->
+[4](# "ref")
 Like **arrows** in the hands of a **warrior** <br/>
 are children born in one’s youth.
 
+<div class="zh">
+少年時所生的兒女，<br>
+好像勇士手中的箭。
+</div>
+
+[5](# "ref")
 **Blessed** is the man <br/>
 whose quiver is full of them.
+
+<div class="zh">
+箭袋充滿的人便為有福！
+</div>
 
 [Psalm 127:4-5 (NIV)](# "ref")
 
