@@ -47,7 +47,7 @@ the guards **stand watch** in vain.
 看守的人就枉然警醒。
 </div>
 
-[Psalm 127:1 (NIV) (p.1/4)](# "ref")
+[Psalm 127:1 (NIV/和合本) (p.1/4)](# "ref")
 
 ---
 [2](# "ref")
@@ -62,7 +62,7 @@ for he **grants sleep** to those he loves.
 唯有耶和華所親愛的，必叫他安然睡覺。
 </div>
 
-[Psalm 127:2 (NIV) (p.2/4)](# "ref")
+[Psalm 127:2 (NIV/和合本) (p.2/4)](# "ref")
 
 ---
 [3](# "ref")
@@ -83,7 +83,7 @@ are children born in one’s youth.
 好像勇士手中的箭。
 </div>
 
-[Psalm 127:3-4 (NIV) (p.3/4)](# "ref")
+[Psalm 127:3-4 (NIV/和合本) (p.3/4)](# "ref")
 
 ---
 [5](# "ref")
@@ -100,7 +100,7 @@ with their opponents in court.
 必不至於羞愧。
 </div>
 
-[Psalm 127:5 (NIV) (p.4/4)](# "ref")
+[Psalm 127:5 (NIV/和合本) (p.4/4)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> id="outline" -->
@@ -132,7 +132,7 @@ the builders **labor** in vain.
 建造的人就枉然勞力；
 </div>
 
-[Psalm 127:1a (NIV)](# "ref")
+[Psalm 127:1a (NIV/和合本)](# "ref")
 
 >>>
 + to "build" refers to **projects** / endeavours:
@@ -162,6 +162,12 @@ he said to Nathan the prophet,
 “Here I am, living in a **house of cedar**, <br/>
 while the **ark** of the covenant of the Lord <br/>
 is under a **tent**.”
+
+<div class="zh">
+大衛住在自己宮中，對先知拿單說：<br>
+「看哪，我住在香柏木的宮中，<br>
+耶和華的約櫃反在幔子裡！」
+</div>
 
 [1 Chronicles 17:1 (NIV) (p.1/3)](# "ref")
 
@@ -572,36 +578,66 @@ but a **foolish son** brings **grief** to his mother.
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
+[1](# "ref")
 Unless the Lord **builds** the house, <br/>
 the builders **labor** in vain.
+
+<div class="zh">
+若不是耶和華建造房屋，<br>
+建造的人就枉然勞力；
+</div>
 
 Unless the Lord **watches** over the city, <br/>
 the guards **stand watch** in vain.
 
-[Psalm 127:1 (NIV) (p.1/4)](# "ref")
+<div class="zh">
+​若不是耶和華看守城池，<br>
+看守的人就枉然警醒。
+</div>
+
+[Psalm 127:1 (NIV/和合本) (p.1/4)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
-In vain you **rise early** <br/>
+[2](# "ref")
+In vain you **rise early** 
 and **stay up** late, <br/>
-**toiling** for food to eat --
-
+**toiling** for food to eat --<br>
 for he **grants sleep** to those he loves.
 
-[Psalm 127:2 (NIV) (p.2/4)](# "ref")
+<div class="zh">
+你們清晨早起，夜晚安歇，<br>
+吃勞碌得來的飯，本是枉然；<br>
+唯有耶和華所親愛的，必叫他安然睡覺。
+</div>
+
+[Psalm 127:2 (NIV/和合本) (p.2/4)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
+[3](# "ref")
 Children are a **heritage** from the Lord, <br/>
 offspring a **reward** from him.
 
+<div class="zh">
+兒女是耶和華所賜的產業，<br>
+所懷的胎是他所給的賞賜。
+</div>
+
+[4](# "ref")
 Like **arrows** in the hands of a **warrior** <br/>
 are children born in one’s youth.
 
-[Psalm 127:3-4 (NIV) (p.3/4)](# "ref")
+<div class="zh">
+少年時所生的兒女，<br>
+好像勇士手中的箭。
+</div>
+
+[Psalm 127:3-4 (NIV/和合本) (p.3/4)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
+[5](# "ref")
 **Blessed** is the man <br/>
 whose quiver is full of them.
 
@@ -609,7 +645,13 @@ They will not be put to **shame** <br/>
 when they **contend** <br/>
 with their opponents in court.
 
-[Psalm 127:5 (NIV) (p.4/4)](# "ref")
+<div class="zh">
+箭袋充滿的人便為有福！<br>
+他們在城門口和仇敵說話的時候，<br>
+必不至於羞愧。
+</div>
+
+[Psalm 127:5 (NIV/和合本) (p.4/4)](# "ref")
 
 >>>
 1. Success and Security
