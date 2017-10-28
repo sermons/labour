@@ -1,5 +1,6 @@
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> id="title" -->
 # Labour of Grace
+# 工作本乎恩 <!-- .element: class="zh" -->
 ## Psalm 127
 
 >>>
@@ -73,9 +74,12 @@ with their opponents in court.
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> id="outline" -->
 ## Labour of Grace [(Ps 127)](# "ref")
-1. **Success** and Security [(v1)](# "ref")
-2. **Sleep** [(v2)](# "ref")
-3. **Sons** / Daughters [(v3-5)](# "ref")
+1. **Success** and Security
+  <span class="zh">成功與保障</span> [(v1)](# "ref")
+2. **Sleep**
+  <span class="zh">睡眠</span> [(v2)](# "ref")
+3. **Sons** / Daughters
+  <span class="zh">兒子與女兒</span> [(v3-5)](# "ref")
 
 <!-- .element: class="outline" -->
 
