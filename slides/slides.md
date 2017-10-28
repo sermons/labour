@@ -34,18 +34,37 @@
 Unless the Lord **builds** the house, <br/>
 the builders **labor** in vain.
 
+<div class="zh">
+若不是耶和華建造房屋，<br>
+建造的人就枉然勞力；
+</div>
+
 Unless the Lord **watches** over the city, <br/>
 the guards **stand watch** in vain.
+
+<div class="zh">
+​若不是耶和華看守城池，<br>
+看守的人就枉然警醒。
+</div>
 
 [Psalm 127:1 (NIV) (p.1/4)](# "ref")
 
 ---
 [2](# "ref")
-In vain you **rise early** <br/>
+In vain you **rise early** 
 and **stay up** late, <br/>
 **toiling** for food to eat --
 
 for he **grants sleep** to those he loves.
+
+<div class="zh">
+你們清晨早起，夜晚安歇，<br>
+吃勞碌得來的飯，本是枉然；
+</div>
+
+<div class="zh">
+唯有耶和華所親愛的，必叫他安然睡覺。
+</div>
 
 [Psalm 127:2 (NIV) (p.2/4)](# "ref")
 
@@ -54,9 +73,18 @@ for he **grants sleep** to those he loves.
 Children are a **heritage** from the Lord, <br/>
 offspring a **reward** from him.
 
+<div class="zh">
+兒女是耶和華所賜的產業，<br>
+所懷的胎是他所給的賞賜。
+</div>
+
 [4](# "ref")
 Like **arrows** in the hands of a **warrior** <br/>
 are children born in one’s youth.
+
+<div class="zh">
+少年時所生的兒女，好像勇士手中的箭。
+</div>
 
 [Psalm 127:3-4 (NIV) (p.3/4)](# "ref")
 
@@ -68,6 +96,12 @@ whose quiver is full of them.
 They will not be put to **shame** <br/>
 when they **contend** <br/>
 with their opponents in court.
+
+<div class="zh">
+箭袋充滿的人便為有福！<br>
+他們在城門口和仇敵說話的時候，<br>
+必不至於羞愧。
+</div>
 
 [Psalm 127:5 (NIV) (p.4/4)](# "ref")
 
