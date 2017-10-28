@@ -51,7 +51,7 @@ the guards **stand watch** in vain.
 
 ---
 [2](# "ref")
-In vain you **rise early** 
+In vain you **rise early**
 and **stay up** late, <br/>
 **toiling** for food to eat --<br>
 for he **grants sleep** to those he loves.
@@ -169,7 +169,7 @@ is under a **tent**.”
 耶和華的約櫃反在幔子裡！」
 </div>
 
-[1 Chronicles 17:1 (NIV) (p.1/3)](# "ref")
+[1 Chronicles 17:1 (NIV/和合本) (p.1/3)](# "ref")
 
 >>>
 + this is a big **investment**: labour, money
@@ -600,7 +600,7 @@ the guards **stand watch** in vain.
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
 [2](# "ref")
-In vain you **rise early** 
+In vain you **rise early**
 and **stay up** late, <br/>
 **toiling** for food to eat --<br>
 for he **grants sleep** to those he loves.
