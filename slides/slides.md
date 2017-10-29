@@ -183,13 +183,22 @@ is under a **tent**.”
 **You are not** the one <br/>
 to build Me a house to dwell in.
 
+<div class="zh">
+你不可建造殿宇給我居住。
+</div>
+
 [7](# "ref")
 **I took you** from the pasture, <br/>
-from tending the **flock**, <br/>
-and appointed you **ruler** <br/>
+from tending the **flock**, <br>
+and appointed you **ruler**
 over My people Israel.
 
-[1 Chronicles 17:4,7 (NIV) (p.2/3)](# "ref")
+<div class="zh">
+我從羊圈中將你召來，叫你不再跟從羊群，<br>
+立你做我民以色列的君。
+</div>
+
+[1 Chronicles 17:4,7 (NIV/和合本) (p.2/3)](# "ref")
 
 >>>
 + God does not **need** my projects
@@ -204,12 +213,21 @@ over My people Israel.
 I declare to you that <br/>
 **the Lord** will build a house for you:
 
+<div class="zh">
+我耶和華應許你，必為你建立家室。
+</div>
+
 [11](# "ref")
 I will raise up your **offspring** to succeed you, <br/>
 one of your own **sons**, <br/>
 and I will establish **his kingdom**.
 
-[1 Chronicles 17:10-11 (NIV) (p.3/3)](# "ref")
+<div class="zh">
+我必使你的後裔接續你的位，<br>
+我也必堅定他的國。
+</div>
+
+[1 Chronicles 17:10-11 (NIV/和合本) (p.3/3)](# "ref")
 
 >>>
 + v12: He is the one who will build a house for me,
@@ -235,7 +253,7 @@ the guards **stand watch** in vain.
 看守的人就枉然警醒。
 </div>
 
-[Psalm 127:1b (NIV)](# "ref")
+[Psalm 127:1b (NIV/和合本)](# "ref")
 
 >>>
 + "watches": **keep**, protect, hold fast
@@ -252,25 +270,30 @@ the guards **stand watch** in vain.
 
 ---
 <!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
-So **do not worry**, saying,
-
+So **do not worry**, saying, <br>
 ‘What shall we **eat**?’ <br/>
 or ‘What shall we **drink**?’ <br/>
 or ‘What shall we **wear**?’
 
+[Matthew 6:31 (NIV/和合本) (p.1/3)](# "ref")
+
+>>>
++ not that it is **wrong** to save money!
++ the problem is **worry**
++ (Ps37) do not **fret**: leads only to evil
+
+---
+<!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
 For the **pagans** run after all these things, <br/>
 and your **heavenly Father** <br/>
 **knows** that you need them.
 
-[Matthew 6:31-32 (NIV) (p.1/2)](# "ref")
+[Matthew 6:32 (NIV/和合本) (p./3)](# "ref")
 
 >>>
 + "pagans": whole rest of the **world**
   + focus on **earning** living
   + **saving** up to provide safety net
-+ not that it is **wrong** to save money!
-+ the problem is **worry**:
-  + (Ps37) do not **fret**: leads only to evil
 + worry takes our eyes off of
   + what should be our **priority**:
 
@@ -282,7 +305,7 @@ and **his righteousness**,
 and all these things <br/>
 will be given to you as well.
 
-[Matthew 6:33 (NIV) (p.2/2)](# "ref")
+[Matthew 6:33 (NIV) (p.3/3)](# "ref")
 
 >>>
 + honour God **first**
