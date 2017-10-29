@@ -275,6 +275,11 @@ So **do not worry**, saying, <br>
 or ‘What shall we **drink**?’ <br/>
 or ‘What shall we **wear**?’
 
+<div class="zh">
+所以，不要憂慮說吃什麼、<br>
+喝什麼、穿什麼。
+</div>
+
 [Matthew 6:31 (NIV/和合本) (p.1/3)](# "ref")
 
 >>>
@@ -285,10 +290,16 @@ or ‘What shall we **wear**?’
 ---
 <!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
 For the **pagans** run after all these things, <br/>
-and your **heavenly Father** <br/>
+and your **heavenly Father** <br>
 **knows** that you need them.
 
-[Matthew 6:32 (NIV/和合本) (p./3)](# "ref")
+<div class="zh">
+這都是外邦人所求的。<br>
+你們需用的這一切東西，<br>
+你們的天父是知道的。
+</div>
+
+[Matthew 6:32 (NIV/和合本) (p.2/3)](# "ref")
 
 >>>
 + "pagans": whole rest of the **world**
@@ -302,10 +313,15 @@ and your **heavenly Father** <br/>
 But seek first **his kingdom** <br/>
 and **his righteousness**,
 
-and all these things <br/>
+and all these things <br>
 will be given to you as well.
 
-[Matthew 6:33 (NIV) (p.3/3)](# "ref")
+<div class="zh">
+你們要先求他的國和他的義，<br>
+這些東西都要加給你們了。
+</div>
+
+[Matthew 6:33 (NIV/和合本) (p.3/3)](# "ref")
 
 >>>
 + honour God **first**
@@ -330,11 +346,11 @@ will be given to you as well.
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
 ## Labour of Grace [(Ps 127)](# "ref")
-1. Success / Security
+1. Success / Security <br>
   <span class="zh">成功與保障</span> [(v1)](# "ref")
-2. **Sleep**
+2. **Sleep** <br>
   <span class="zh">**睡眠**</span> [(v2)](# "ref")
-3. Sons / Daughters
+3. Sons / Daughters <br>
   <span class="zh">兒子與女兒</span> [(v3-5)](# "ref")
 
 <!-- .element: class="outline" -->
@@ -355,7 +371,7 @@ and **stay up** late, <br/>
 吃勞碌得來的飯，本是枉然；
 </div>
 
-[Psalm 127:2a (NIV)](# "ref")
+[Psalm 127:2a (NIV/和合本)](# "ref")
 
 >>>
 + rise for sake of being **early**:
@@ -376,14 +392,15 @@ and **stay up** late, <br/>
 <!-- .slide: <%= bg("unsplash-8EFA86nI6yg-desert_cracks.jpg") %> -->
 **Cursed** is the ground because of you; <br/>
 through **painful toil** <br/>
-you will eat **food** from it <br/>
+you will eat **food** from it <br>
 all the days of your life.
 
-It will produce  <br/>
-**thorns** and **thistles** for you, <br/>
-and you will eat the plants of the field.
+<div class="zh">
+地必為你的緣故受咒詛，<br>
+你必終身勞苦，才能從地裡得吃的。
+</div>
 
-[Genesis 3:17-38 (NIV)](# "ref")
+[Genesis 3:17 (NIV/和合本)](# "ref")
 
 >>>
 + Particularly applies to Adam / **men**
@@ -399,17 +416,31 @@ and you will eat the plants of the field.
 ---
 <!-- .slide: <%= bg("unsplash-KtOid0FLjqU-spain_house.jpg") %> -->
 God gives some people <br/>
-**wealth**, **possessions** and **honor**, <br/>
-so that they **lack nothing** <br/>
-their hearts desire,
+**wealth**, **possessions** and **honor**, <br>
+so that they **lack nothing**
+their hearts desire, ...
 
-but God does not grant them <br/>
+<div class="zh">
+就是人蒙神賜他資財、豐富、尊榮，<br>
+以致他心裡所願的一樣都不缺，
+</div>
+
+[Ecclesiastes 6:2a (NIV/和合本) (p.1/2)](# "ref")
+
+---
+<!-- .slide: <%= bg("unsplash-KtOid0FLjqU-spain_house.jpg") %> -->
+... but God does not grant them <br/>
 the ability to **enjoy** them, <br/>
 and **strangers** enjoy them instead.
 
 This is **meaningless**, a grievous evil.
 
-[Ecclesiastes 6:2 (NIV)](# "ref")
+<div class="zh">
+只是神使他不能吃用，反有外人來吃用。<br>
+這是虛空，也是禍患。
+</div>
+
+[Ecclesiastes 6:2b (NIV/和合本) (p.2/2)](# "ref")
 
 >>>
 + "grievous evil": result of **curse** from sin
@@ -423,10 +454,15 @@ This is **meaningless**, a grievous evil.
 Blessed are all who **fear the Lord**, <br/>
 who walk in **obedience** to him.
 
-You will eat the **fruit** of your **labor**; <br/>
+You will eat the **fruit** of your **labor**; <br>
 **blessings** and **prosperity** will be yours.
 
-[Psalm 128:1-2 (NIV)](# "ref")
+<div class="zh">
+凡敬畏耶和華、遵行他道的人便為有福！<br>
+你要吃勞碌得來的，你要享福，事情順利。
+</div>
+
+[Psalm 128:1-2 (NIV/和合本)](# "ref")
 
 >>>
 + **Ps128** right after today's passage
