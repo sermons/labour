@@ -1,7 +1,7 @@
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> id="title" -->
 # Labour of Grace
 # <span class="zh"> 工作本乎恩 </span>
-## Psalm 127
+## Psalm <span class="zh">詩篇</span> 127
 
 >>>
 + Today's passage challenges us to focus
@@ -35,19 +35,19 @@ Unless the Lord **builds** the house, <br/>
 the builders **labor** in vain.
 
 <div class="zh">
-若不是耶和華建造房屋，<br>
-建造的人就枉然勞力；
+若不是耶和華**建造**房屋，<br>
+建造的人就枉然**勞力**；
 </div>
 
 Unless the Lord **watches** over the city, <br/>
 the guards **stand watch** in vain.
 
 <div class="zh">
-​若不是耶和華看守城池，<br>
-看守的人就枉然警醒。
+若不是耶和華**看守**城池，<br>
+看守的人就枉然**警醒**。
 </div>
 
-[Psalm 127:1 (NIV/和合本) (p.1/4)](# "ref")
+[Psalm 詩篇 127:1 (NIV/和合本) (p.1/4)](# "ref")
 
 ---
 [2](# "ref")
@@ -57,12 +57,13 @@ and **stay up** late, <br/>
 for he **grants sleep** to those he loves.
 
 <div class="zh">
-你們清晨早起，夜晚安歇，<br>
-吃勞碌得來的飯，本是枉然；<br>
-唯有耶和華所親愛的，必叫他安然睡覺。
+你們清晨**早起**，**夜晚**安歇，<br>
+吃**勞碌**得來的飯，本是枉然；<br>
+唯有耶和華所親愛的，<br>
+必**叫他安然睡覺**。
 </div>
 
-[Psalm 127:2 (NIV/和合本) (p.2/4)](# "ref")
+[Psalm 詩篇 127:2 (NIV/和合本) (p.2/4)](# "ref")
 
 ---
 [3](# "ref")
@@ -70,8 +71,8 @@ Children are a **heritage** from the Lord, <br/>
 offspring a **reward** from him.
 
 <div class="zh">
-兒女是耶和華所賜的產業，<br>
-所懷的胎是他所給的賞賜。
+兒女是耶和華所賜的**產業**，<br>
+所懷的胎是他所給的**賞賜**。
 </div>
 
 [4](# "ref")
@@ -80,10 +81,10 @@ are children born in one’s youth.
 
 <div class="zh">
 少年時所生的兒女，<br>
-好像勇士手中的箭。
+好像**勇士**手中的**箭**。
 </div>
 
-[Psalm 127:3-4 (NIV/和合本) (p.3/4)](# "ref")
+[Psalm 詩篇 127:3-4 (NIV/和合本) (p.3/4)](# "ref")
 
 ---
 [5](# "ref")
@@ -95,16 +96,16 @@ when they **contend** <br/>
 with their opponents in court.
 
 <div class="zh">
-箭袋充滿的人便為有福！<br>
+箭袋充滿的人便為**有福**！<br>
 他們在城門口和仇敵說話的時候，<br>
-必不至於羞愧。
+必不至於**羞愧**。
 </div>
 
-[Psalm 127:5 (NIV/和合本) (p.4/4)](# "ref")
+[Psalm 詩篇 127:5 (NIV/和合本) (p.4/4)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> id="outline" -->
-## Labour of Grace [(Ps 127)](# "ref")
+## [Psalm 詩篇 127](# "ref")
 1. **Success** / Security <br>
   <span class="zh">成功與保障</span> [(v1)](# "ref")
 2. **Sleep** <br>
@@ -128,11 +129,11 @@ Unless the Lord **builds** the house, <br/>
 the builders **labor** in vain.
 
 <div class="zh">
-若不是耶和華建造房屋，<br>
-建造的人就枉然勞力；
+若不是耶和華**建造**房屋，<br>
+建造的人就枉然**勞力**；
 </div>
 
-[Psalm 127:1a (NIV/和合本)](# "ref")
+[Psalm 詩篇 127:1a (NIV/和合本)](# "ref")
 
 >>>
 + to "build" refers to **projects** / endeavours:
@@ -164,12 +165,12 @@ while the **ark** of the covenant of the Lord <br/>
 is under a **tent**.”
 
 <div class="zh">
-大衛住在自己宮中，對先知拿單說：<br>
-「看哪，我住在香柏木的宮中，<br>
-耶和華的約櫃反在幔子裡！」
+**大衛**住在自己**宮**中，對先知拿單說：<br>
+「看哪，我住在**香柏木**的宮中，<br>
+耶和華的**約櫃**反在**幔子**裡！」
 </div>
 
-[1 Chronicles 17:1 (NIV/和合本) (p.1/3)](# "ref")
+[1 Chronicles 歷代志上 17:1 (NIV/和合本) (p.1/3)](# "ref")
 
 >>>
 + this is a big **investment**: labour, money
@@ -184,22 +185,20 @@ is under a **tent**.”
 to build Me a house to dwell in.
 
 <div class="zh">
-你不可建造殿宇給我居住。
+**你不可**建造殿宇給我居住。
 </div>
 
 [7](# "ref")
-**I took you** from the pasture, <br/>
-from tending the **flock**, <br>
+**I took you** from the pasture, [...]<br/>
 and appointed you **ruler**
 over My people Israel.
 
 <div class="zh">
-我從羊圈中將你召來，<br>
-叫你不再跟從羊群，<br>
-立你做我民以色列的君。
+**我**從羊圈中**將你**召來，[...]<br>
+立你做我民以色列的**君**。
 </div>
 
-[1 Chronicles 17:4,7 (NIV/和合本) (p.2/3)](# "ref")
+[1 Chronicles 歷代志上 17:4,7 (NIV/和合本) (p.2/3)](# "ref")
 
 >>>
 + God does not **need** my projects
@@ -215,7 +214,7 @@ I declare to you that <br/>
 **the Lord** will build a house for you:
 
 <div class="zh">
-我耶和華應許你，必為你建立家室。
+我耶和華應許你，必為你**建立**家室。
 </div>
 
 [11](# "ref")
@@ -224,11 +223,11 @@ one of your own **sons**, <br/>
 and I will establish **his kingdom**.
 
 <div class="zh">
-我必使你的後裔接續你的位，<br>
-我也必堅定他的國。
+我必使你的**後裔**接續你的位，<br>
+我也必堅定**他的國**。
 </div>
 
-[1 Chronicles 17:10-11 (NIV/和合本) (p.3/3)](# "ref")
+[1 Chronicles 歷代志上 17:10-11 (NIV/和合本) (p.3/3)](# "ref")
 
 >>>
 + v12: He is the one who will build a house for me,
@@ -250,11 +249,11 @@ Unless the Lord **watches** over the city, <br/>
 the guards **stand watch** in vain.
 
 <div class="zh">
-​若不是耶和華看守城池，<br>
-看守的人就枉然警醒。
+若不是耶和華**看守**城池，<br>
+看守的人就枉然**警醒**。
 </div>
 
-[Psalm 127:1b (NIV/和合本)](# "ref")
+[Psalm 詩篇 127:1b (NIV/和合本)](# "ref")
 
 >>>
 + "watches": **keep**, protect, hold fast
@@ -277,14 +276,14 @@ or ‘What shall we **drink**?’ <br/>
 or ‘What shall we **wear**?’
 
 <div class="zh">
-所以，不要憂慮說吃什麼、<br>
-喝什麼、穿什麼。
+所以，**不要憂慮**說**吃**什麼、<br>
+**喝**什麼、**穿**什麼。
 </div>
 
-[Matthew 6:31 (NIV/和合本) (p.1/3)](# "ref")
+[Matthew 馬太福音 6:31 (NIV/和合本) (p.1/3)](# "ref")
 
 >>>
-+ not that it is **wrong** to save money!
++ **saving** up money is not the problem!
 + the problem is **worry**
 + (Ps37) do not **fret**: leads only to evil
 
@@ -295,12 +294,12 @@ and your **heavenly Father** <br>
 **knows** that you need them.
 
 <div class="zh">
-這都是外邦人所求的。<br>
+這都是**外邦**人所求的。<br>
 你們需用的這一切東西，<br>
-你們的天父是知道的。
+你們的**天父**是知道的。
 </div>
 
-[Matthew 6:32 (NIV/和合本) (p.2/3)](# "ref")
+[Matthew 馬太福音 6:32 (NIV/和合本) (p.2/3)](# "ref")
 
 >>>
 + "pagans": whole rest of the **world**
@@ -318,11 +317,11 @@ and all these things <br>
 will be given to you as well.
 
 <div class="zh">
-你們要先求他的國和他的義，<br>
+你們要先求**他的國**和**他的義**，<br>
 這些東西都要加給你們了。
 </div>
 
-[Matthew 6:33 (NIV/和合本) (p.3/3)](# "ref")
+[Matthew 馬太福音 6:33 (NIV/和合本) (p.3/3)](# "ref")
 
 >>>
 + honour God **first**
@@ -346,7 +345,7 @@ will be given to you as well.
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
-## Labour of Grace [(Ps 127)](# "ref")
+## [Psalm 詩篇 127](# "ref")
 1. Success / Security <br>
   <span class="zh">成功與保障</span> [(v1)](# "ref")
 2. **Sleep** <br>
@@ -368,11 +367,11 @@ and **stay up** late, <br/>
 **toiling** for food to eat
 
 <div class="zh">
-你們清晨早起，夜晚安歇，<br>
-吃勞碌得來的飯，本是枉然；
+你們清晨**早起**，**夜晚**安歇，<br>
+吃**勞碌**得來的飯，本是枉然；
 </div>
 
-[Psalm 127:2a (NIV/和合本)](# "ref")
+[Psalm 詩篇 127:2a (NIV/和合本)](# "ref")
 
 >>>
 + rise for sake of being **early**:
@@ -397,11 +396,11 @@ you will eat **food** from it <br>
 all the days of your life.
 
 <div class="zh">
-地必為你的緣故受咒詛，<br>
-你必終身勞苦，才能從地裡得吃的。
+地必為你的緣故受**咒詛**，<br>
+你必終身**勞苦**，才能從地裡得吃的。
 </div>
 
-[Genesis 3:17 (NIV/和合本)](# "ref")
+[Genesis 創世記 3:17 (NIV/和合本)](# "ref")
 
 >>>
 + Particularly applies to Adam / **men**
@@ -422,11 +421,11 @@ so that they **lack nothing**
 their hearts desire, ...
 
 <div class="zh">
-就是人蒙神賜他資財、豐富、尊榮，<br>
-以致他心裡所願的一樣都不缺，
+就是人蒙神賜他**資財**、**豐富**、**尊榮**，<br>
+以致他心裡所願的一樣**都不缺**， ...
 </div>
 
-[Ecclesiastes 6:2a (NIV/和合本) (p.1/2)](# "ref")
+[Ecclesiastes 傳道書 6:2a (NIV/和合本) (p.1/2)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-KtOid0FLjqU-spain_house.jpg") %> -->
@@ -437,12 +436,12 @@ and **strangers** enjoy them instead.
 This is **meaningless**, a grievous evil.
 
 <div class="zh">
-只是神使他不能吃用，<br>
-反有外人來吃用。<br>
-這是虛空，也是禍患。
+... 只是神使他**不能吃用**，<br>
+反有**外人**來吃用。<br>
+這是**虛空**，也是禍患。
 </div>
 
-[Ecclesiastes 6:2b (NIV/和合本) (p.2/2)](# "ref")
+[Ecclesiastes 傳道書 6:2b (NIV/和合本) (p.2/2)](# "ref")
 
 >>>
 + "grievous evil": result of **curse** from sin
@@ -460,13 +459,13 @@ You will eat the **fruit** of your **labor**; <br>
 **blessings** and **prosperity** will be yours.
 
 <div class="zh">
-凡敬畏耶和華、<br>
-遵行他道的人便為有福！<br>
-你要吃勞碌得來的，<br>
-你要享福，事情順利。
+凡**敬畏**耶和華、<br>
+**遵行**他道的人便為有福！<br>
+你要吃**勞碌**得來的，<br>
+你要**享福**，事情順利。
 </div>
 
-[Psalm 128:1-2 (NIV/和合本)](# "ref")
+[Psalm 詩篇 128:1-2 (NIV/和合本)](# "ref")
 
 >>>
 + **Ps128** right after today's passage
@@ -490,10 +489,10 @@ for he **grants sleep** to those he **loves**.
 
 <div class="zh">
 唯有耶和華所親愛的，<br>
-必叫他安然睡覺。
+必**叫他安然睡覺**。
 </div>
 
-[Psalm 127:2b (NIV/和合本)](# "ref")
+[Psalm 詩篇 127:2b (NIV/和合本)](# "ref")
 
 >>>
 + His **beloved**:
@@ -517,11 +516,11 @@ but as for the **rich**, <br>
 their abundance permits them **no sleep**.
 
 <div class="zh">
-勞碌的人不拘吃多吃少，睡得香甜；<br>
-富足人的豐滿，卻不容他睡覺。
+**勞碌**的人不拘吃多吃少，**睡得香甜**；<br>
+**富足**人的豐滿，卻**不容他睡覺**。
 </div>
 
-[Ecclesiastes 5:12 (NIV/和合本)](# "ref")
+[Ecclesiastes 傳道書 5:12 (NIV/和合本)](# "ref")
 
 >>>
 + work (**employment**, not toil)
@@ -545,7 +544,7 @@ their abundance permits them **no sleep**.
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
-## Labour of Grace [(Ps 127)](# "ref")
+## [Psalm 詩篇 127](# "ref")
 1. Success / Security<br>
   <span class="zh">成功與保障</span> [(v1)](# "ref")
 2. Sleep<br>
@@ -564,11 +563,11 @@ Children are a **heritage** from the Lord, <br>
 offspring a **reward** from him.
 
 <div class="zh">
-兒女是耶和華所賜的產業，<br>
-所懷的胎是他所給的賞賜。
+兒女是耶和華所賜的**產業**，<br>
+所懷的胎是他所給的**賞賜**。
 </div>
 
-[Psalm 127:3 (NIV/和合本)](# "ref")
+[Psalm 詩篇 127:3 (NIV/和合本)](# "ref")
 
 >>>
 + "heritage": **inheritance**
@@ -588,7 +587,7 @@ are children born in one’s youth.
 
 <div class="zh">
 少年時所生的兒女，<br>
-好像勇士手中的箭。
+好像**勇士**手中的**箭**。
 </div>
 
 [5](# "ref")
@@ -596,10 +595,10 @@ are children born in one’s youth.
 whose quiver is full of them.
 
 <div class="zh">
-箭袋充滿的人便為有福！
+箭袋充滿的人便為**有福**！
 </div>
 
-[Psalm 127:4-5 (NIV/和合本)](# "ref")
+[Psalm 詩篇 127:4-5 (NIV/和合本)](# "ref")
 
 >>>
 + as with sleep: **grace**, not earned
@@ -621,11 +620,11 @@ A **wise son** brings **joy** to his father, <br>
 but a **foolish son** brings **grief** to his mother.
 
 <div class="zh">
-智慧之子使父親歡樂， <br>
-愚昧之子叫母親擔憂。
+**智慧**之子使父親**歡樂**， <br>
+**愚昧**之子叫母親**擔憂**。
 </div>
 
-[Proverbs 10:1 (NIV/和合本)](# "ref")
+[Proverbs 箴言 10:1 (NIV/和合本)](# "ref")
 
 >>>
 + if don't **train** kids in God's wisdom,
@@ -656,19 +655,19 @@ Unless the Lord **builds** the house, <br/>
 the builders **labor** in vain.
 
 <div class="zh">
-若不是耶和華建造房屋，<br>
-建造的人就枉然勞力；
+若不是耶和華**建造**房屋，<br>
+建造的人就枉然**勞力**；
 </div>
 
 Unless the Lord **watches** over the city, <br/>
 the guards **stand watch** in vain.
 
 <div class="zh">
-​若不是耶和華看守城池，<br>
-看守的人就枉然警醒。
+若不是耶和華**看守**城池，<br>
+看守的人就枉然**警醒**。
 </div>
 
-[Psalm 127:1 (NIV/和合本) (p.1/4)](# "ref")
+[Psalm 詩篇 127:1 (NIV/和合本) (p.1/4)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
@@ -679,13 +678,13 @@ and **stay up** late, <br/>
 for he **grants sleep** to those he loves.
 
 <div class="zh">
-你們清晨早起，夜晚安歇，<br>
-吃勞碌得來的飯，本是枉然；<br>
+你們清晨**早起**，**夜晚**安歇，<br>
+吃**勞碌**得來的飯，本是枉然；<br>
 唯有耶和華所親愛的，<br>
-必叫他安然睡覺。
+必**叫他安然睡覺**。
 </div>
 
-[Psalm 127:2 (NIV/和合本) (p.2/4)](# "ref")
+[Psalm 詩篇 127:2 (NIV/和合本) (p.2/4)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
@@ -694,8 +693,8 @@ Children are a **heritage** from the Lord, <br/>
 offspring a **reward** from him.
 
 <div class="zh">
-兒女是耶和華所賜的產業，<br>
-所懷的胎是他所給的賞賜。
+兒女是耶和華所賜的**產業**，<br>
+所懷的胎是他所給的**賞賜**。
 </div>
 
 [4](# "ref")
@@ -704,10 +703,10 @@ are children born in one’s youth.
 
 <div class="zh">
 少年時所生的兒女，<br>
-好像勇士手中的箭。
+好像**勇士**手中的**箭**。
 </div>
 
-[Psalm 127:3-4 (NIV/和合本) (p.3/4)](# "ref")
+[Psalm 詩篇 127:3-4 (NIV/和合本) (p.3/4)](# "ref")
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
@@ -720,12 +719,12 @@ when they **contend** <br/>
 with their opponents in court.
 
 <div class="zh">
-箭袋充滿的人便為有福！<br>
+箭袋充滿的人便為**有福**！<br>
 他們在城門口和仇敵說話的時候，<br>
-必不至於羞愧。
+必不至於**羞愧**。
 </div>
 
-[Psalm 127:5 (NIV/和合本) (p.4/4)](# "ref")
+[Psalm 詩篇 127:5 (NIV/和合本) (p.4/4)](# "ref")
 
 >>>
 1. Success and Security
