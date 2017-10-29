@@ -194,7 +194,8 @@ and appointed you **ruler**
 over My people Israel.
 
 <div class="zh">
-我從羊圈中將你召來，叫你不再跟從羊群，<br>
+我從羊圈中將你召來，<br>
+叫你不再跟從羊群，<br>
 立你做我民以色列的君。
 </div>
 
@@ -436,7 +437,8 @@ and **strangers** enjoy them instead.
 This is **meaningless**, a grievous evil.
 
 <div class="zh">
-只是神使他不能吃用，反有外人來吃用。<br>
+只是神使他不能吃用，<br>
+反有外人來吃用。<br>
 這是虛空，也是禍患。
 </div>
 
@@ -458,8 +460,10 @@ You will eat the **fruit** of your **labor**; <br>
 **blessings** and **prosperity** will be yours.
 
 <div class="zh">
-凡敬畏耶和華、遵行他道的人便為有福！<br>
-你要吃勞碌得來的，你要享福，事情順利。
+凡敬畏耶和華、<br>
+遵行他道的人便為有福！<br>
+你要吃勞碌得來的，<br>
+你要享福，事情順利。
 </div>
 
 [Psalm 128:1-2 (NIV/和合本)](# "ref")
@@ -531,8 +535,8 @@ their abundance permits them **no sleep**.
 
 ---
 <!-- .slide: data-background="white" -->
-# Do I view **sleep** as God's **grace**
-# or <br/> a necessary **evil**?
+# Do I view **sleep** as God's **grace**, or
+# a necessary **evil**?
 
 >>>
 + Do I **toil** in my own **strength**,
@@ -677,7 +681,8 @@ for he **grants sleep** to those he loves.
 <div class="zh">
 你們清晨早起，夜晚安歇，<br>
 吃勞碌得來的飯，本是枉然；<br>
-唯有耶和華所親愛的，必叫他安然睡覺。
+唯有耶和華所親愛的，<br>
+必叫他安然睡覺。
 </div>
 
 [Psalm 127:2 (NIV/和合本) (p.2/4)](# "ref")
