@@ -489,7 +489,7 @@ for he **grants sleep** to those he **loves**.
 必叫他安然睡覺。
 </div>
 
-[Psalm 127:2b (NIV)](# "ref")
+[Psalm 127:2b (NIV/和合本)](# "ref")
 
 >>>
 + His **beloved**:
@@ -509,10 +509,15 @@ for he **grants sleep** to those he **loves**.
 The **sleep** of a **laborer** is sweet, <br/>
 whether they eat **little** or much,
 
-but as for the **rich**, <br/>
+but as for the **rich**, <br>
 their abundance permits them **no sleep**.
 
-[Ecclesiastes 5:12 (NIV)](# "ref")
+<div class="zh">
+勞碌的人不拘吃多吃少，睡得香甜；<br>
+富足人的豐滿，卻不容他睡覺。
+</div>
+
+[Ecclesiastes 5:12 (NIV/和合本)](# "ref")
 
 >>>
 + work (**employment**, not toil)
@@ -537,11 +542,11 @@ their abundance permits them **no sleep**.
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
 ## Labour of Grace [(Ps 127)](# "ref")
-1. Success / Security
+1. Success / Security<br>
   <span class="zh">成功與保障</span> [(v1)](# "ref")
-2. Sleep
+2. Sleep<br>
   <span class="zh">睡眠</span> [(v2)](# "ref")
-3. **Sons / Daughters**
+3. **Sons / Daughters**<br>
   <span class="zh">**兒子與女兒**</span> [(v3-5)](# "ref")
 
 <!-- .element: class="outline" -->
@@ -551,7 +556,7 @@ their abundance permits them **no sleep**.
 
 ---
 <!-- .slide: <%= bg("unsplash-9mzGpUpqUpw-girl_dancing.jpg") %> -->
-Children are a **heritage** from the Lord, <br/>
+Children are a **heritage** from the Lord, <br>
 offspring a **reward** from him.
 
 <div class="zh">
@@ -559,7 +564,7 @@ offspring a **reward** from him.
 所懷的胎是他所給的賞賜。
 </div>
 
-[Psalm 127:3 (NIV)](# "ref")
+[Psalm 127:3 (NIV/和合本)](# "ref")
 
 >>>
 + "heritage": **inheritance**
@@ -590,7 +595,7 @@ whose quiver is full of them.
 箭袋充滿的人便為有福！
 </div>
 
-[Psalm 127:4-5 (NIV)](# "ref")
+[Psalm 127:4-5 (NIV/和合本)](# "ref")
 
 >>>
 + as with sleep: **grace**, not earned
@@ -608,10 +613,15 @@ whose quiver is full of them.
 
 ---
 <!-- .slide: <%= bg("unsplash-1DkWWN1dr-s-father_son_beach.jpg") %> -->
-A **wise son** brings **joy** to his father, <br/>
+A **wise son** brings **joy** to his father, <br>
 but a **foolish son** brings **grief** to his mother.
 
-[Proverbs 10:1 (NIV)](# "ref")
+<div class="zh">
+智慧之子使父親歡樂， <br>
+愚昧之子叫母親擔憂。
+</div>
+
+[Proverbs 10:1 (NIV/和合本)](# "ref")
 
 >>>
 + if don't **train** kids in God's wisdom,
