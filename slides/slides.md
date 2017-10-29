@@ -4,11 +4,11 @@
 ## Psalm <span class="zh">詩篇</span> 127
 
 >>>
-+ Today's passage challenges us to focus
++ challenge us to focus:
   + not on what we've **earned**
   + but on God's **grace** toward us
 + instead of boasting in my **capability**:
-  + what I can **accomplish**, skills, talents
+  + **accomplishments**, skills, talents
 + boast in my **inability**:
   + complete **reliance** on God's power:
 
@@ -24,7 +24,7 @@
 + There are 15 psalms of **ascents**:
   + going up **Jerusalem** hill to worship
   + Levites up 15 steps to **temple**
-+ train proper **attitude** as we worship God
++ proper **attitude** as we worship God
 + Ps127 is written by King **Solomon**
   + great **wisdom** + great **projects**
   + all by God's **grace**
@@ -121,7 +121,7 @@ with their opponents in court.
 + **Success** (projects, family) and
   + **security** (safety, peace)
 + **Sleep** (time management)
-+ **Sons**/daughters (the blessing of children)
++ **Sons**/daugh (blessing of children)
 
 ---
 <!-- .slide: <%= bg("unsplash-K3uOmmlQmOo-pencil_shavings.jpg") %> -->
@@ -136,21 +136,21 @@ the builders **labor** in vain.
 [Psalm 詩篇 127:1a (NIV/和合本)](# "ref")
 
 >>>
-+ to "build" refers to **projects** / endeavours:
++ "build": **projects** / endeavours:
   + education, **career**
-  + "house" often refers to **family**, legacy
-+ "in vain" (*shav*): worthless, false, **deceptive**
-  + has a moral **negative** connotation
-+ contrast with *hebel* (Eccl): breath, fleeting
-  + which only means **empty**, e.g., Abel
+  + "house": **family**, legacy
++ "in vain" (*shav*): worthless, **deceptive**
+  + false: morally **negative**
++ cf. *hebel* (Eccl): breath, fleeting
+  + simply **empty**, e.g., Abel
 + not a **prediction** of the outcome
   + i.e., "you could try, but you'll fail"
 + but a moral **judgment**:
   + "you build according to a **lie**"
   + your **value** system deceives you
   + **contrary** to God's truth
-+ applies not just to "**worldly**" projects (money)
-  + even projects done **for God**:
++ not just "**worldly**" projects (money)
+  + but even projects done **for God**:
 + e.g., King **David**, when secure in reign
   + proposed a great **project** for God:
 
@@ -173,7 +173,7 @@ is under a **tent**.”
 [1 Chronicles 歷代志上 17:1 (NIV/和合本) (p.1/3)](# "ref")
 
 >>>
-+ this is a big **investment**: labour, money
++ big **investment**: labour, money
   + David figured he had **resources**
   + do something **great** for God
 + what was God's **response**?
@@ -231,10 +231,9 @@ and I will establish **his kingdom**.
 
 >>>
 + v12: He is the one who will build a house for me,
-  + and I will establish his throne forever.
-+ not just referring to **Solomon**,
-  + but via royal line to
-  + **Christ** the Son of David
+  and I will establish his throne forever.
++ not only **Solomon**, but royal line
+  + to **Christ** the Son of David
 + **God** is the one with the **plan** / project
   + far beyond our small life **goals**
 + our responsibility is simply to be
@@ -260,13 +259,13 @@ the guards **stand watch** in vain.
   + "stand watch": stay **awake**
 + this refers to our sense of **security**
   + i.e., what do we **fear**?
-+ What is my **safety net**?  Money? Education?
-  + US: guns
++ What is my **safety net**?
+  + Money? Education? (US: guns)
   + are these really able to **protect** us?
 + As I get old/ill: how will I **survive**?
-  + worry about enough money in **retirement**
+  + enough money in **retirement**?
 + Jesus gives us **comfort** in famous
-  + Sermon on the Mount:
+  + Sermon on the **Mount**:
 
 ---
 <!-- .slide: <%= bg("unsplash-8CwoHpZe3qE-hands.jpg") %> -->
@@ -358,7 +357,7 @@ will be given to you as well.
 >>>
 + we **build** in vain (deceiving ourselves)
   + we **watch** in vain (false security)
-+ even how we manage our **time** is in vain:
++ even how we manage our **time**:
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
@@ -444,8 +443,8 @@ This is **meaningless**, a grievous evil.
 [Ecclesiastes 傳道書 6:2b (NIV/和合本) (p.2/2)](# "ref")
 
 >>>
-+ "grievous evil": result of **curse** from sin
-+ We have seen grouchy **old men** like this
++ "grievous evil": from sin's **curse**
++ know of grouchy **old men** like this
   + we don't want to **become** like this
 + God has a **promise** of fruitful labour
   + **how** do we obtain it?
@@ -470,17 +469,17 @@ You will eat the **fruit** of your **labor**; <br>
 >>>
 + **Ps128** right after today's passage
   + connected to Ps127
-+ echoes Solomon's conclusion in Eccl (12:13):
++ Solomon's conclusion Eccl (12:13):
   + **Fear** God + **obey** commands
 + this is the **whole** of man
   + i.e., our entire **job** in life
-+ not: using God as **means** to achieve my goals
++ not: God as **means** for my goals
   + e.g., God as **vending** machine
   + e.g., God as magic **genie**
   + e.g., going to church so God will **bless** my work
 + my whole **purpose** should be:
   + **fear** God + walk in **obedience**
-+ This **fear** / reverence doesn't push us **away**,
++ **fear** / reverence: not push us **away**,
   + God draws us **near** in **love**:
 
 ---
@@ -495,16 +494,16 @@ for he **grants sleep** to those he **loves**.
 [Psalm 詩篇 127:2b (NIV/和合本)](# "ref")
 
 >>>
-+ His **beloved**:
-  + **Jedidiah** (name of Solomon, 2Sam12:24-25)
++ His **beloved**: **Jedidiah**
+  + (name of Solomon, 2Sam12:24-25)
   + remember **we** are God's beloved!
 + sleep is a **gift**, not earned
-+ e.g. call, woke up mom-in-law from **nap**:
++ e.g. call, mom-in-law **napping**:
   + not so **easy** to fall back asleep!
 + we have fruitful **labour** given by God
   + not from **obligation**
   + but His deep **love** for us
-+ so we can **rest** in God's abundant **grace**:
++ **rest** in God's abundant **grace**:
   + He **provides**
 
 ---
@@ -555,7 +554,10 @@ their abundance permits them **no sleep**.
 <!-- .element: class="outline" -->
 
 >>>
-+ .
++ what is **God's** idea of success?
++ what makes me feel **secure**?
++ do I **rest** well, trusting God to provide?
++ what is the **purpose** of having children?
 
 ---
 <!-- .slide: <%= bg("unsplash-9mzGpUpqUpw-girl_dancing.jpg") %> -->
@@ -574,7 +576,7 @@ offspring a **reward** from him.
   + Heb: **possession**, not succession
   + inheritance is **Father's** property
 + we the **heirs** receive the inheritance
-  + only bc of our **relationship** w/the Father
+  + only bc of **relation** w/the Father
   + we ourselves are **adopted** as heirs
 + children are owned by **God**
 + entrusted to our **stewardship**
@@ -608,7 +610,7 @@ whose quiver is full of them.
   + "arrows": directed **intent**
 + opportunity to **shape** their character
   + by **words** and my **actions**
-+ then **release** them to fly by God's grace
++ then **release** to fly by God's grace
 + **quiver** full: gift, not a **pursuit**
   + not just cranking out more **babies**
   + every child a **blessing**
@@ -638,12 +640,12 @@ but a **foolish son** brings **grief** to his mother.
 
 >>>
 + because they're **cute**?
-+ so they'll **take care** of me when I'm **old**?
++ to **take care** of me in **old age**?
 + &rArr; kids **belong** to God
   + **entrusted** to us in His **grace**
   + to **train** according to God's way
   + as a **testimony** to God's glory
-+ Close by reading Psalm 127 once again:
++ Close: read Ps127 together:
   + success + security
   + sleep
   + sons + daughters
@@ -727,9 +729,9 @@ with their opponents in court.
 [Psalm 詩篇 127:5 (NIV/和合本) (p.4/4)](# "ref")
 
 >>>
-1. Success and Security
-2. Sleep
-3. Sons / Daughters
++ Success and Security
++ Sleep
++ Sons / Daughters
 + The most **valuable** things in life
   cannot be **earned** by hard work
 + we receive them by God's **grace**
