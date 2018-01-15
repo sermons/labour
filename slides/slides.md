@@ -104,7 +104,7 @@ with their opponents in court.
 [Psalm 詩篇 127:5 (NIV/和合本) (p.4/4)](# "ref")
 
 ---
-<!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> id="outline" -->
+<!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> id="outline" class="outline" -->
 ## [Psalm 詩篇 127](# "ref")
 1. **Success** / Security <br>
   <span class="zh">成功與保障</span> [(v1)](# "ref")
@@ -112,8 +112,6 @@ with their opponents in court.
   <span class="zh">睡眠</span> [(v2)](# "ref")
 3. **Sons** / Daughters <br>
   <span class="zh">兒子與女兒</span> [(v3-5)](# "ref")
-
-<!-- .element: class="outline" -->
 
 >>>
 + 3 things that we cannot **earn**,
@@ -343,7 +341,7 @@ will be given to you as well.
   + **trusting** God to take care of us
 
 ---
-<!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> class="outline" -->
 ## [Psalm 詩篇 127](# "ref")
 1. Success / Security <br>
   <span class="zh">成功與保障</span> [(v1)](# "ref")
@@ -351,8 +349,6 @@ will be given to you as well.
   <span class="zh">**睡眠**</span> [(v2)](# "ref")
 3. Sons / Daughters <br>
   <span class="zh">兒子與女兒</span> [(v3-5)](# "ref")
-
-<!-- .element: class="outline" -->
 
 >>>
 + we **build** in vain (deceiving ourselves)
@@ -542,7 +538,7 @@ their abundance permits them **no sleep**.
 + sleep + Sabbath as act of **faith**
 
 ---
-<!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> -->
+<!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> class="outline" -->
 ## [Psalm 詩篇 127](# "ref")
 1. Success / Security<br>
   <span class="zh">成功與保障</span> [(v1)](# "ref")
@@ -550,8 +546,6 @@ their abundance permits them **no sleep**.
   <span class="zh">睡眠</span> [(v2)](# "ref")
 3. **Sons / Daughters**<br>
   <span class="zh">**兒子與女兒**</span> [(v3-5)](# "ref")
-
-<!-- .element: class="outline" -->
 
 >>>
 + what is **God's** idea of success?
