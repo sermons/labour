@@ -104,6 +104,12 @@ with their opponents in court.
 [Psalm 詩篇 127:5 (NIV/和合本) (p.4/4)](# "ref")
 
 ---
+
+>>>
++ review: from 10 commandments to exile
++ David, Temple: longing for return
+
+---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> id="outline" class="outline" -->
 ## [Psalm 詩篇 127](# "ref")
 1. **Success** / Security <br>
