@@ -104,6 +104,12 @@ with their opponents in court.
 [Psalm 詩篇 127:5 (NIV/和合本) (p.4/4)](# "ref")
 
 ---
+## Israel from Exodus to Exile
++ Egypt to Canaan (1660-1445)
++ The Judges (-1050)
++ The Kingdom of David (-930)
++ The Divided Kingdom (-586)
++ Exile (-457)
 
 >>>
 + review: from 10 commandments to exile
