@@ -30,6 +30,7 @@
   + all by God's **grace**
 
 ---
+<!-- .slide: <%= bg("Holyland_Model_Jerusalem.jpg") %> -->
 ## Israel from Exodus to Exile
 + Egypt to Canaan (1660-1445)
 + The Judges (-1050)
