@@ -30,6 +30,18 @@
   + all by God's **grace**
 
 ---
+## Israel from Exodus to Exile
++ Egypt to Canaan (1660-1445)
++ The Judges (-1050)
++ The Kingdom of David (-930)
++ The Divided Kingdom (-586)
++ Exile (-457)
+
+>>>
++ review: from 10 commandments to exile
++ David, Temple: longing for return
+
+---
 [1](# "ref")
 Unless the Lord **builds** the house, <br/>
 the builders **labor** in vain.
@@ -102,18 +114,6 @@ with their opponents in court.
 </div>
 
 [Psalm 詩篇 127:5 (NIV/和合本) (p.4/4)](# "ref")
-
----
-## Israel from Exodus to Exile
-+ Egypt to Canaan (1660-1445)
-+ The Judges (-1050)
-+ The Kingdom of David (-930)
-+ The Divided Kingdom (-586)
-+ Exile (-457)
-
->>>
-+ review: from 10 commandments to exile
-+ David, Temple: longing for return
 
 ---
 <!-- .slide: <%= bg("unsplash-eRQPWFijcx4-mtn_lake_boat.jpg") %> id="outline" class="outline" -->
