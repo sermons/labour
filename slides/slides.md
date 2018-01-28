@@ -21,6 +21,24 @@
 [###](#/outline "secret")
 
 >>>
++ scarlet thread of **redemption**
+  + through entire **Bible**:
++ God's perfect **design**
++ our **rebellion** against Him
++ God's **grace** redeems us
++ our **new life** in Him
+
+---
+<!-- .slide: <%= bg("Holyland_Model_Jerusalem.jpg") %> -->
+## Israel from Exodus to Exile
++ Egypt to **Canaan** [(ca 1660-1445 BC)](# "ref")
++ The **Judges** [(ca 1445-1050 BC)](# "ref")
++ The **Kingdom** of David [(ca 1050-930 BC)](# "ref")
++ The **Divided** Kingdom [(ca 930-586 BC)](# "ref")
++ The **Exile** [(ca 586-457 BC)](# "ref")
+
+>>>
++ David, Temple: longing for return
 + There are 15 psalms of **ascents**:
   + going up **Jerusalem** hill to worship
   + Levites up 15 steps to **temple**
@@ -28,19 +46,6 @@
 + Ps127 is written by King **Solomon**
   + great **wisdom** + great **projects**
   + all by God's **grace**
-
----
-<!-- .slide: <%= bg("Holyland_Model_Jerusalem.jpg") %> -->
-## Israel from Exodus to Exile
-+ Egypt to Canaan (1660-1445)
-+ The Judges (-1050)
-+ The Kingdom of David (-930)
-+ The Divided Kingdom (-586)
-+ Exile (-457)
-
->>>
-+ review: from 10 commandments to exile
-+ David, Temple: longing for return
 
 ---
 [1](# "ref")
