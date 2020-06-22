@@ -1,7 +1,7 @@
 # Labour of Grace
 ## Psalm 127
 
-[![Travis-CI build status](https://travis-ci.org/sermons/labour.svg)](https://travis-ci.org/sermons/labour)
+[![Travis-CI build status](https://api.travis-ci.com/sermons/labour.svg)](https://travis-ci.com/github/sermons/labour)
 [![Node dependencies](https://david-dm.org/sermons/labour.svg)](https://david-dm.org/sermons/labour)
 [![Node dev status](https://david-dm.org/sermons/labour/dev-status.svg)](https://david-dm.org/sermons/labour?type=dev)
 
