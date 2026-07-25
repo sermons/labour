@@ -25,21 +25,55 @@
 + our **new life** in Him
 
 ---
-<!-- .slide: <%= bg("Holyland_Model_Jerusalem.jpg") %> -->
-## Israel from Exodus to Exile
-+ Egypt to **Canaan** [(ca 1660-1445 BC)](# "ref")
-+ The **Judges** [(ca 1445-1050 BC)](# "ref")
-+ The **Kingdom** of David [(ca 1050-930 BC)](# "ref")
-+ The **Divided** Kingdom [(ca 930-586 BC)](# "ref")
-+ The **Exile** [(ca 586-457 BC)](# "ref")
+<!-- .slide: <%= bg("unsplash-Ht5XmeuLyDg-camel_mtns_silh.jpg") %> -->
+## Psalms of Ascents
+<div class="imgbox fulltext" style="font-size: 0.75rem">
+<div>
+120: Deliver Me, Oh LORD
+
+121: My Help Comes <br/> From the LORD
+
+122: Peace of Jerusalem
+
+123: Have Mercy Upon Us
+
+124: The LORD On Our Side
+
+125: The LORD Surrounds <br/> His People
+
+126: Restore Our Fortunes
+
+**127: Unless the LORD Builds**
+
+</div>
+<div>
+
+128: He Who Fears the LORD
+
+129: Afflicted, but not <br/> Prevailed Against
+
+130: My Soul Waits for the LORD
+
+131: Quieted My Soul
+
+132: The Face of <br/> Your Anointed One
+
+133: When Brothers <br/> Dwell in Unity
+
+134: Come Bless the LORD
+</div>
+</div>
+
+[Egypt. Mariam Soliman](https://unsplash.com/photos/Ht5XmeuLyDg "caption")
 
 >>>
-+ David, Temple: longing for return
-+ There are 15 psalms of **ascents**:
-  + going up **Jerusalem** hill to worship
++ 15 psalms of **ascents**, mostly short:
+  + up **Jeru.** hill to worship, and
   + Levites up 15 steps to **temple**
-+ proper **attitude** as we worship God
-+ Ps127 is written by King **Solomon**
++ Proper **attitude** as we worship God
++ Span from David to **post-exile**
++ 2 halves: center (127) by **Sol**
+  + Israel's **golden era**
   + great **wisdom** + great **projects**
   + all by God's **grace**
 
@@ -49,6 +83,8 @@
 1. **Success** / Security [(v1)](# "ref")
 2. **Sleep** [(v2)](# "ref")
 3. **Sons** / Daughters [(v3-5)](# "ref")
+
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + 3 things that we cannot **earn**,
@@ -63,7 +99,7 @@
 Unless the Lord **builds** the house, <br/>
 the builders **labor** in vain.
 
-[Psalm 127:1a (NIV/和合本)](# "ref")
+[Psalm 127:1a (NIV)](# "ref")
 
 >>>
 + "build": **projects** / endeavours:
@@ -224,6 +260,8 @@ will be given to you as well.
 2. **Sleep** [(v2)](# "ref")
 3. Sons / Daughters [(v3-5)](# "ref")
 
+<!-- .element: class="r-fit-text" -->
+
 >>>
 + we **build** in vain (deceiving ourselves)
   + we **watch** in vain (false security)
@@ -378,6 +416,8 @@ their abundance permits them **no sleep**.
 1. Success / Security [(v1)](# "ref")
 2. Sleep [(v2)](# "ref")
 3. **Sons** / Daughters [(v3-5)](# "ref")
+
+<!-- .element: class="r-fit-text" -->
 
 >>>
 + what is **God's** idea of success?
