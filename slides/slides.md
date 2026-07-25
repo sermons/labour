@@ -350,9 +350,21 @@ You will eat the **fruit** of your **labor**; <br>
 + **Ps128** right after today's passage
   + connected to Ps127
 + Solomon's conclusion Eccl (12:13):
-  + **Fear** God + **obey** commands
-+ this is the **whole** of man
-  + i.e., our entire **job** in life
+
+---
+<!-- .slide: <%= bg("unsplash-J0iMZ0CTYy4-virginia_hills.jpg") %> -->
+The **end** of the matter; <br/>
+all has been heard.
+
+**Fear** God and **keep** his commandments, <br/>
+for this is the **whole** duty of man.
+
+[Ecclesiastes 12:13 (ESV)](# "ref")
+[Mouth of Wilson, VA, USA. Micah Giszack](https://unsplash.com/photos/J0iMZ0CTYy4 "caption")
+
+>>>
++ the **whole** of man:
+  + our entire **job** in life
 + not: God as **means** for my goals
   + e.g., God as **vending** machine
   + e.g., God as magic **genie**
