@@ -3,7 +3,7 @@
 ## Psalm 127
 
 >>>
-+ challenge us to focus:
++ challenges us to focus:
   + not on what we've **earned**
   + but on God's **grace** toward us
 + instead of boasting in my **capability**:
@@ -70,8 +70,8 @@
 + 15 psalms of **ascents**, mostly short:
   + up **Jeru.** hill to worship, and
   + Levites up 15 steps to **temple**
-+ Proper **attitude** as we worship God
 + Span from David to **post-exile**
++ Proper **attitude** as we worship God
 + 2 halves: center (127) by **Sol**
   + Israel's **golden era**
   + great **wisdom** + great **projects**
@@ -97,7 +97,7 @@
 ---
 <!-- .slide: <%= bg("unsplash-K3uOmmlQmOo-pencil_shavings.jpg") %> -->
 Unless the Lord **builds** the house, <br/>
-the builders **labor** in vain.
+the builders labor **in vain**.
 
 [Psalm 127:1a (NIV)](# "ref")
 
@@ -105,16 +105,16 @@ the builders **labor** in vain.
 + "build": **projects** / endeavours:
   + education, **career**
   + "house": **family**, legacy
-+ "in vain" (*shav*): worthless, **deceptive**
++ "in vain": cf. *hebel* (Eccl):
+  + breath, fleeting, **empty** (Abel) 
++ but here (*shav*): worthless, **deceptive**
   + false: morally **negative**
-+ cf. *hebel* (Eccl): breath, fleeting
-  + simply **empty**, e.g., Abel
-+ not a **prediction** of the outcome
-  + i.e., "you could try, but you'll fail"
++ not mere **prediction** of outcome
+  + i.e., "you could **try**, but you'll fail"
 + but a moral **judgment**:
   + "you build according to a **lie**"
-  + your **value** system deceives you
-  + **contrary** to God's truth
+  + deceived by **value** system 
+  + contrary to God's **truth**
 + not just "**worldly**" projects (money)
   + but even projects done **for God**:
 + e.g., King **David**, when secure in reign
@@ -176,7 +176,7 @@ and I will establish **his kingdom**.
   + far beyond our small life **goals**
 + our responsibility is simply to be
   + good + faithful **servants** (Mt25:21)
-  + not foreman / **directors**!
+  + not **boss** / owner!
 + v1(a) is about **success**, achievement
   + v1(b) is about **security**:
 
@@ -214,13 +214,13 @@ and your **heavenly Father** <br>
 [Matthew 6:31-32 (NIV) (p.1/2)](# "ref")
 
 >>>
-+ **saving** up money is not the problem!
-+ the problem is **worry**
++ Not wrong to **save** up money, but 
+  + the problem is **worry**
 + (Ps37) do not **fret**: leads only to evil
 + "pagans": whole rest of the **world**
   + focus on **earning** living
   + **saving** up to provide safety net
-+ worry takes our eyes off of
++ Worry takes our eyes off of
   + what should be our **priority**:
 
 ---
@@ -281,11 +281,12 @@ and **stay up** late, <br/>
 + "stay up": **tarry**/delay sitting down:
   + **body** tells me it's time to sleep
   + but I **refuse**: too much work to do
++ both: see sleep as **obstacle**
 + &rArr; Going to sleep is an act of **faith**
   + trust God will **provide**
   + **yield** to God's design for my body
 + "toiling": eat bread of **suffering**
-+ **work** was originally **good**:
++ Gen3: **work** was originally **good**
   + fruitful, **fulfilling**, fun
 + but because of mankind's **sin**:
   + work was **cursed**:
@@ -308,7 +309,7 @@ all the days of your life.
   + work hard, **save** up
   + unable to **enjoy** it?
   + kids **squander** it?
-+ King **Solomon** also reflected:
++ In Ecc, King **Solomon** reflected:
 
 ---
 <!-- .slide: <%= bg("unsplash-KtOid0FLjqU-spain_house.jpg") %> -->
